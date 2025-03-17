@@ -23,9 +23,9 @@ repository               : "leebyunggook/leebyunggook.github.io"
 author:
   # Biographic information
   avatar           : "lbg.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Lee Byung Gook"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Department of Computer Engineering, Dongseo Univ."
   location         : "Busan, Republic of Korea"
   employer         : "Dongseo Univ."
   uri              : # URL
