@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Prof. Lee Byung Gook"
+title                    : "leebyunggook"
 title_separator          : "-"
 name                     : &name "Lee Byung Gook"
 description              : &description "Department of Computer Engineering Dongseo Univ. "
@@ -23,7 +23,7 @@ repository               : "leebyunggook/leebyunggook.github.io"
 author:
   # Biographic information
   avatar           : "lbg.jpg"
-  name             : "Lee Byung Gook"
+  name             : "Prof. Lee Byung Gook"
   pronouns         : # example: "she/her"  
   bio              : "Department of Computer Engineering Dongseo Univ."
   location         : "Busan, Republic of Korea"
