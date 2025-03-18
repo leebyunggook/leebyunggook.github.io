@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-IAI [Members](https://docs.google.com/spreadsheets/d/1AjLDKGMdpbTXK5bkp-BO-iJkS1iQSlScNOB6wQT8nRc/edit?usp=sharing) : 
+
+IAI Meetings 
 ======
 [251](https://docs.google.com/document/d/1EsW4Ao1xVWMMhMDEi0rlJfgP_Stotn3OjjFyir2QZ0A/edit?usp=sharing)
 [242](https://docs.google.com/document/d/1E43TMEiYiVuvVg04571IuzTHr8KVieo27xTeAli8PY4/edit?usp=sharing)
@@ -34,7 +35,7 @@ IAI [Members](https://docs.google.com/spreadsheets/d/1AjLDKGMdpbTXK5bkp-BO-iJkS1
 [132](https://docs.google.com/document/d/1vtumaoKSSg910ay1MCQs2ijWHuIDfk1Ywv4F9wzz93g/edit?usp=sharing)
 [131](https://docs.google.com/document/d/1KaFBsg9FJG-nk7zTGd5bB1Yo5_8kSr_HFG5RjNKQxys/edit?usp=sharing)
 
-
+[Members](https://docs.google.com/spreadsheets/d/1AjLDKGMdpbTXK5bkp-BO-iJkS1iQSlScNOB6wQT8nRc/edit?usp=sharing) : 
 [DL](https://docs.google.com/document/d/1-xyWSUiaFZdGCh9pJ5WoYIDNYk0xPJnY-AkDhYDoyPM/edit?usp=sharing)
 [DC](https://drive.google.com/open?id=1nx8bM9zsaUMW0liTaWme0_yw1TG5iOMUksqqYSKb10o)
 [SSD](https://drive.google.com/open?id=1FPwAq91-N0uMX8MQiR9l9dRSh5qt1p1nVRIXkH-R60U)
