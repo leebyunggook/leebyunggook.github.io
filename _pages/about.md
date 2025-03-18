@@ -60,6 +60,36 @@ Lectures :
 [Natural Language Programming(MS)](https://docs.google.com/document/d/1v-VuDiE1_xePzTqUUiEVHEiV_AgnpWlQcBTYa6g9GsY/edit?usp=sharing)  
 [more...](http://kowon.dongseo.ac.kr/~lbg/lectures.html)
 
+youTube : 
+======
+[Multi Level Visualization AR](https://www.youtube.com/watch?v=-KrscAONVwI)
+[LOOKEDU Video](https://www.youtube.com/watch?v=2Byzr1nQ-aE)
+[CubeAR](https://www.youtube.com/watch?v=GrdSEtdKWIs)
+[Magical Sketchpad](https://www.youtube.com/watch?v=y3w33wE_OrM)
+[Pictomation](http://www.youtube.com/watch?v=l-ZW9Io1kNY)
+[ShallWeDance](http://www.youtube.com/watch?v=sMjqvxJB_Yc)
+[Mini Car using Kinect and Arduino](https://www.youtube.com/watch?v=WFNtsA8P8D8)
+[Kinect+Deform2D](https://www.youtube.com/watch?v=HKt8Qt4bLvI)
+[1-inch UniTouch System using Kinect](http://youtu.be/IeXT2r1bYBY)
+[Kinect&DJ](https://www.youtube.com/watch?v=GXdPaQPfHH0)
+[InterativeBoard](http://www.youtube.com/watch?v=NOU1lXR4JKo)
+[LaserPoint](http://www.youtube.com/watch?v=-tuS3GbHtV8)
+[StereoCamera](http://www.youtube.com/watch?v=v5HNT_okvI8)
+[MTS1](http://www.youtube.com/watch?v=nyhyB3gE1aw)
+[MTS2](http://www.youtube.com/watch?v=zFMOtzpkgQo)
+[Uochestra](http://www.youtube.com/watch?v=9-fKpwGm0Cg)
+[HandTracking](http://www.youtube.com/watch?v=19NqwLUM624)
+[Hanguel](http://www.youtube.com/watch?v=pkLJi_Gz1nI)
+[ImageDeformation](http://www.youtube.com/watch?v=s1FcSpLabhw)
+[Eye Tracking with Kinect](http://www.youtube.com/watch?v=35AYNqk8Yrw)
+[DPII 3D Display System](https://www.youtube.com/watch?v=p-aoKsvyqjY)
+[Air-touch Interaction System](https://www.youtube.com/watch?v=KiVnVFinXc0)
+[Virtual meeting room](https://youtu.be/Bx0Y_ItbFsk)
+[IAI](https://www.youtube.com/watch?v=NmQIxMCwbns)
+[miniQ](https://www.youtube.com/watch?v=NkSvHTp3Pxs)
+[Multimodal](https://www.youtube.com/watch?v=x-EYtzSvTuw)
+[AR Museum](https://www.youtube.com/watch?v=eWA_kv97aVY)
+
 iArts Workshops : 
 ======
 MMU20 MMU18 SUES17 MMU17 Korea17 LAFA17 UTAR17 MMU16 MMU15 Ciputra15 MMU15 UTAR15 LAFA14 MMU14 Ciputra14 LAFA13 LAFA12
