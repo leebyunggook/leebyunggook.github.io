@@ -140,8 +140,10 @@ XR Metaverse Booster Camp 2021
 geri bologna parkjinho hankyong oita1 realhub jilin cityu ewha3 iai6 ntu okta etri3 azworks tau etri2 
 iai5 nims ms etri1 ncsu iai4 iai3 oita etri ewha wisconsin iai2 iai1 wibro seoul hit 3b kist ftk
 [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb)
-<center>
+
+
+<p align="center" width="100%">
 <img src="./../images/qr_code.png" width="200px" height="200px" title="https://leebyunggook.github.io/">https://leebyunggook.github.io/</img>
-</center>
+</p>
 
 
