@@ -60,7 +60,7 @@ Lectures :
 [Natural Language Programming(MS)](https://docs.google.com/document/d/1v-VuDiE1_xePzTqUUiEVHEiV_AgnpWlQcBTYa6g9GsY/edit?usp=sharing)  
 [more...](http://kowon.dongseo.ac.kr/~lbg/lectures.html)
 
-youTube : 
+youTubes : 
 ======
 [Multi Level Visualization AR](https://www.youtube.com/watch?v=-KrscAONVwI)
 [LOOKEDU Video](https://www.youtube.com/watch?v=2Byzr1nQ-aE)
