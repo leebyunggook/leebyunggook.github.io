@@ -185,13 +185,17 @@ Workshops :
 [3b](http://kowon.dongseo.ac.kr/~lbg/seminar/3b.html), 
 [kist](http://kowon.dongseo.ac.kr/~lbg/seminar/kist.html), 
 [ftk](http://kowon.dongseo.ac.kr/~lbg/seminar/ftk.html)  
-[1st Maritime Computer Vision Workshop@BITS](https://sites.google.com/view/wmacv2024bits/home")
-[XR Metaverse Booster Camp] (https://sites.google.com/view/xrcontentsboostercamp/"):
-[2021](https://docs.google.com/document/d/1LV99iFNGA-YPBqyjLhFH2iSDvKovPqhDJvyGw8kCclk/edit")  
-[MITA2018](https://sites.google.com/view/mita2018/"),
-[Organizing Chair](https://photos.app.goo.gl/ZupQHwy2jLuxtxJJ8"), SUES, Shanghai, China, June 28~30, 2018  
-[MITA2017](https://sites.google.com/view/mita2017/"), 
-[Organizing Chair](https://photos.app.goo.gl/VPqRWtKJRR45UrtB8"), MMU, Kuala Lumpur, Malaysia, July 9~11, 2017
+
+[1st Maritime Computer Vision Workshop@BITS](https://sites.google.com/view/wmacv2024bits/home)    
+
+[XR Metaverse Booster Camp](https://sites.google.com/view/xrcontentsboostercamp/):
+[2021](https://docs.google.com/document/d/1LV99iFNGA-YPBqyjLhFH2iSDvKovPqhDJvyGw8kCclk/edit)  
+
+[MITA2018](https://sites.google.com/view/mita2018/),
+[Organizing Chair](https://photos.app.goo.gl/ZupQHwy2jLuxtxJJ8), SUES, Shanghai, China, June 28~30, 2018  
+
+[MITA2017](https://sites.google.com/view/mita2017/), 
+[Organizing Chair](https://photos.app.goo.gl/VPqRWtKJRR45UrtB8), MMU, Kuala Lumpur, Malaysia, July 9~11, 2017
 
 <p align="center" width="100%">
 <img src="./../images/qr_code.png" width="200px" height="200px" title="https://leebyunggook.github.io/">  
