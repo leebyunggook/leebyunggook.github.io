@@ -1,7 +1,7 @@
 ---
 title: "Computer Graphics"
 collection: teaching
-type: "graduate master degree course"
+type: "Graduate master degree course"
 permalink: /teaching/2025-spring-teaching-3
 venue: "Dongseo University, Department of Computer Engineering"
 date: 2025-03-02
