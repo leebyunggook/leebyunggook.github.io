@@ -137,9 +137,41 @@ Workshops :
 2nd Maritime Computer Vision Workshop@BITS 2025
 Maritime Computer Vision Workshop@BITS 2024
 XR Metaverse Booster Camp 2021 
-geri bologna parkjinho hankyong oita1 realhub jilin cityu ewha3 iai6 ntu okta etri3 azworks tau etri2 
-iai5 nims ms etri1 ncsu iai4 iai3 oita etri ewha wisconsin iai2 iai1 wibro seoul hit 3b kist ftk
-[Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb)
+[geri](https://docs.google.com/document/d/15K1YZYfIG9IF4X3-Ds8qZk1Zx3f7v5VaGJ45sTBHxRE/edit?usp=sharing), 
+[bologna](https://docs.google.com/document/d/1YIJWCkQWLKm5K9owXhQAj2bpEZdkX-4_Uumo58oMyGE/edit?usp=sharing), 
+[parkjinho](https://docs.google.com/document/d/1Xvn0mbIb1tuQZyGHvObfbJCaFSA8WBWzejzN_bEDBRg/edit?usp=sharing), 
+[hankyong](https://docs.google.com/document/d/1D4SnAXhaOAZ7UcmaTh55igR4BRt_L-YEdnquc0BjS_M/edit?usp=sharing), 
+[oita1](http://kowon.dongseo.ac.kr/~lbg/seminar/oita1.html), 
+[realhub](http://kowon.dongseo.ac.kr/~lbg/seminar/realhub.html), 
+[jilin](http://kowon.dongseo.ac.kr/~lbg/seminar/jilin.html), 
+[cityu](http://kowon.dongseo.ac.kr/~lbg/seminar/cityu.html), 
+[ewha3](http://kowon.dongseo.ac.kr/~lbg/seminar/ewha3.html), 
+[iai6](http://kowon.dongseo.ac.kr/~lbg/seminar/iai6.html), 
+[ntu](http://kowon.dongseo.ac.kr/~lbg/seminar/ntu.html), 
+[okta](http://kowon.dongseo.ac.kr/~lbg/seminar/okta.html), 
+[etri3](http://kowon.dongseo.ac.kr/~lbg/seminar/etri3.html), 
+[azworks](http://kowon.dongseo.ac.kr/~lbg/seminar/azworks1.html), 
+[tau](http://kowon.dongseo.ac.kr/~lbg/seminar/levin.html), 
+[etri2](http://kowon.dongseo.ac.kr/~lbg/seminar/etri2.html), 
+[iai5](http://kowon.dongseo.ac.kr/~lbg/seminar/iai5.html), 
+[nims](http://kowon.dongseo.ac.kr/~lbg/seminar/nims.html), 
+[ms](http://kowon.dongseo.ac.kr/~lbg/seminar/ms.html), 
+[etri1](http://kowon.dongseo.ac.kr/~lbg/seminar/etri1.html), 
+[ncsu](http://kowon.dongseo.ac.kr/~lbg/seminar/hoonhong.html), 
+[iai4](http://kowon.dongseo.ac.kr/~lbg/seminar/iai4.html), 
+[iai3](http://kowon.dongseo.ac.kr/~lbg/seminar/iai3.html), 
+[oita](http://kowon.dongseo.ac.kr/~lbg/seminar/oita.html), 
+[etri](http://kowon.dongseo.ac.kr/~lbg/seminar/etri.html), 
+[ewha](http://kowon.dongseo.ac.kr/~lbg/seminar/ewha.html), 
+[wisconsin](http://kowon.dongseo.ac.kr/~lbg/seminar/amosron.html), 
+[iai2](http://kowon.dongseo.ac.kr/~lbg/seminar/iai2.html), 
+[iai1](http://kowon.dongseo.ac.kr/~lbg/seminar/iai1.html), 
+[wibro](http://kowon.dongseo.ac.kr/~lbg/seminar/wibro.html), 
+[seoul](http://kowon.dongseo.ac.kr/~lbg/seminar/seoul.html), 
+[hit](http://kowon.dongseo.ac.kr/~lbg/seminar/hit.html), 
+[3b](http://kowon.dongseo.ac.kr/~lbg/seminar/3b.html), 
+[kist](http://kowon.dongseo.ac.kr/~lbg/seminar/kist.html), 
+[ftk](http://kowon.dongseo.ac.kr/~lbg/seminar/ftk.html)
 
 
 <p align="center" width="100%">
