@@ -1,7 +1,7 @@
 ---
 title: "Computer Graphics 컴퓨터 그래픽스"
 collection: teaching
-type: "Lecture"
+type: "Undergraduate 3rd year course"
 permalink: /teaching/2025-spring-teaching-2
 venue: "Dongseo University, Department of Computer Engineering"
 date: 2025-03-02
