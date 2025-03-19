@@ -101,7 +101,7 @@ iArts Workshops :
 [UTAR17](https://docs.google.com/document/d/1oFjbqwLWMKI9TX18kGb3eBQvhCC7n3E32WYOW8vsIdE/edit?usp=sharing"), 
 [MMU16](https://docs.google.com/document/d/1MKgtdiFB9U2PfXJZy8Ck-ex1_CNjMtjLEYOVAy7VCus/edit?usp=sharing"), 
 [MMU15](https://docs.google.com/document/d/1jh8uVB-_BiuXjNCrOUNkXZOTSlNAUcrhbfLkiEUIXB8/edit?usp=sharing"), 
-[Ciputra15[(https://docs.google.com/document/d/1_-fr_59ibMk3cYkOeFhnR-HZS1Tr9bTz-Y9nveApVGc/edit?usp=sharing"), 
+[Ciputra15](https://docs.google.com/document/d/1_-fr_59ibMk3cYkOeFhnR-HZS1Tr9bTz-Y9nveApVGc/edit?usp=sharing"), 
 [MMU15](https://docs.google.com/document/d/1a8kZoDGI69jRhpHavPRd9nN0dCg9brjpB6Q38dV7HLQ/edit?usp=sharing"), 
 [UTAR15](https://docs.google.com/document/d/1CglgNMwFAE9eJDWt667CC0saD_dVw3C8pbDmoaCoV8k/edit?usp=sharing"), 
 [LAFA14](https://docs.google.com/document/d/11TnKxK6UBFt025_vhcHmfLfld6JCRsJGthnGQkLv0a4/edit?usp=sharing"), 
