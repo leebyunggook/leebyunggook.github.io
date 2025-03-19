@@ -46,7 +46,7 @@ Lectures :
 ======
 [웹프로그래밍(Web Programming)](https://docs.google.com/document/d/1DIelqz13KJvWNonWlFONPavD1nXrXkX4ZjFuor0YFng/edit?usp=sharing),
 [컴퓨터그래픽스(Computer Graphics)](https://docs.google.com/document/d/1ws8QLYgxB4Nj_ZnCiqlYsXvPhpzePRtTjaeDrQ2nny8/edit?usp=sharing),
-[Computer Graphics(MS)](https://drive.google.com/open?id=1P5sw_GTeO1074b7VugKLQXGy23JcZ8JiLATaScqNBQE),  
+[Computer Graphics(MS)](https://drive.google.com/open?id=1P5sw_GTeO1074b7VugKLQXGy23JcZ8JiLATaScqNBQE),
 [Capstone Design](https://docs.google.com/document/d/1bYFbSYBAbrmrxhRcjVT4JlOUHjFBMOo-tWRMg0uZvP4/edit?usp=sharing),
 [객체지향프로그램(OOP-Java)](https://drive.google.com/open?id=1Axmj5sCgHwMKalN_4J5sSMNLaU7z30y2y-uXn6oQTjQ),
 [영상처리(Image Processing)](https://docs.google.com/document/d/1qaZOJ7kA3RFyG-RrI-mh_Tin70rH1cbTu96OaHQRvhA/edit?usp=sharing),  
