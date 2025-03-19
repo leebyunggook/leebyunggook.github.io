@@ -1,5 +1,5 @@
 ---
-title: "Computer Graphics"
+title: "Computer Graphics MS"
 collection: teaching
 type: "Graduate master degree course"
 permalink: /teaching/2025-spring-teaching-3
