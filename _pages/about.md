@@ -198,5 +198,5 @@ Workshops :
 <p align="center" width="100%">
 <img src="./../images/qr_code.png" width="200px" height="200px" title="https://leebyunggook.github.io/">  
 </p>
-
+  
 [https://leebyunggook.github.io/](https://leebyunggook.github.io/)
