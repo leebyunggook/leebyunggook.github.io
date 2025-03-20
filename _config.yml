@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "leebyunggook"
+title                    : "leebyunggook web"
 title_separator          : "-"
 name                     : &name "Lee Byung Gook"
 description              : &description "Department of Computer Engineering Dongseo Univ. "
