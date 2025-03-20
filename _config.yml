@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "leebyunggook web"
+title                    : "leebyunggook"
 title_separator          : "-"
 name                     : &name "Lee Byung Gook"
 description              : &description "Department of Computer Engineering Dongseo Univ. "
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0003-0725-0355"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
