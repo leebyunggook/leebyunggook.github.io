@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-IAI Meetings web 
+IAI Meetings 
 ======
 [Members](https://docs.google.com/spreadsheets/d/1AjLDKGMdpbTXK5bkp-BO-iJkS1iQSlScNOB6wQT8nRc/edit?usp=sharing) :
 [251](https://docs.google.com/document/d/1EsW4Ao1xVWMMhMDEi0rlJfgP_Stotn3OjjFyir2QZ0A/edit?usp=sharing)
@@ -110,7 +110,7 @@ iArts Workshops :
 [LAFA13](https://drive.google.com/open?id=1nN0V-wnO2EKKu2Lvvq7WJR3kvmiofo0FqWqnYJIAoUM"), 
 [LAFA12](https://docs.google.com/document/d/1WzXqQXqNPdQ0ZDyc5IMJAJ04l0SL0hfjOETb2hKnqZM/edit"), 
 
-The KMMCS (Korea Mathematical Methods for Curves and Surfaces)
+Korea Mathematical Methods for Curves and Surfaces
 ======
 [35](https://docs.google.com/document/d/1j5MIEVHpqOdAu2lAsDmOFpu5NjgIxDaq0HuXbudSnJI/edit?usp=sharing)
 [34](https://docs.google.com/document/d/1UI4Ic3ARTsrrDqf7KNpR18JgzpCixYd462X7Ksx-u1g/edit?usp=sharing)
