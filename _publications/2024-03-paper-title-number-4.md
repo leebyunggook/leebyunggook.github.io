@@ -1,7 +1,7 @@
 ---
 title: "DiSAIn-VTON: Diffusion-based Similar Apparel Inpainting Virtual Try-on Network"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-03-paper-title-number-4
 excerpt: ''
 date: 2024-03
