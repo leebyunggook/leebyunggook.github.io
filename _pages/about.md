@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-IAI Meetings 
+IAI Meetings web 
 ======
 [Members](https://docs.google.com/spreadsheets/d/1AjLDKGMdpbTXK5bkp-BO-iJkS1iQSlScNOB6wQT8nRc/edit?usp=sharing) :
 [251](https://docs.google.com/document/d/1EsW4Ao1xVWMMhMDEi0rlJfgP_Stotn3OjjFyir2QZ0A/edit?usp=sharing)
