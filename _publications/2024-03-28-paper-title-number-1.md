@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-03-28-paper-title-number-1
 excerpt: ''
-date: ''
+date: 2024-03-28
 venue: ''
 paperurl: 'https://www.mdpi.com/2227-7390/12/7/1013'
 citation: 'Jie Yang, Byung Gook Lee, Distributed Adaptive Tracking Control of Hidden Leader-Follower Multi-Agent Systems with Unknown Parameter, Mathematics 2024, 12(7), 1013'
