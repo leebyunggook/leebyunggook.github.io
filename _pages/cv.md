@@ -11,35 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Applied Mathematics, KAIST, 1993
+* M.S. in Applied Mathematics, KAIST, 1989
+* B.S. in Mathematics, Yonsei Univ., 1987
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Visiting Professor, School of Multimedia Design, SUES, China ('15 ~ '16)
+* Post-doctoral, Prof. Tom Lyche, Dept. of Informatics, Univ. of Oslo, Norway ('99 ~ '00)
+* Professor, Department of Computer Engineering, Dongseo University ('95 ~ )
+* Senior Engineer, Division II Open Systems Lab. DACOM Corp. R&D Center ('93 ~ '95)
+* Researcher, Computer Center, Korea Research Institute of Standards and Science ('92 ~ '93)
 
 Publications
 ======
@@ -58,7 +40,5 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
