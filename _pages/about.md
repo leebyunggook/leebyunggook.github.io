@@ -203,4 +203,7 @@ Workshops :
 <img src="./../images/qr_code.png" width="200px" height="200px" title="https://leebyunggook.github.io/">  
 </p>
   
-[https://leebyunggook.github.io/](https://leebyunggook.github.io/)
+[https://leebyunggook.github.io/](https://leebyunggook.github.io/)  
+[https://kowon.dongseo.ac.kr/~lbg/](https://kowon.dongseo.ac.kr/~lbg/)  
+
+
