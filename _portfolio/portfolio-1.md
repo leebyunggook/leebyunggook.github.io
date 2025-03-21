@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "2015년 미래부 국가연구개발 우수 성과 100선 선정"
+excerpt: "2015년 미래부 국가연구개발 우수 성과 100선 선정<br/><img src='/images/busanilbo.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[2015년 미래부 국가연구개발 우수 성과 100선 선정](http://kowon.dongseo.ac.kr/~lbg/cagd/R1510488.pdf)  
+[동서대 IAI연구소 이병국 소장 "국가 연구개발 100선 뽑혀 큰 자부심"](https://www.busan.com/view/busan/view.php?code=20160101000082)
