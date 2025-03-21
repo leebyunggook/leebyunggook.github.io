@@ -2,7 +2,7 @@
 title: "Distributed Adaptive Tracking Control of Hidden Leader-Follower Multi-Agent Systems with Unknown Parameter"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-03-28-paper-title-number-1
+permalink: /publication/2024-03-28-Mathematics
 excerpt: ''
 date: 2024-03-28
 venue: ''
