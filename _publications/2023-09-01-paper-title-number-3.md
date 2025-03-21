@@ -6,7 +6,6 @@ permalink: /publication/2023-09-01-paper-title-number-3
 excerpt: ''
 date: 2023-09-01
 venue: ''
-slidesurl: ''
 paperurl: 'https://www.mdpi.com/1424-8220/23/18/7693'
 citation: 'DI Kosasih, BG Lee, H Lim, Multichannel One-Dimensional Data Augmentation with Generative Adversarial Network, Sensors 23 (18), 7693, Sep. 2023.'
 ---
