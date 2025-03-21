@@ -202,7 +202,7 @@ Workshops :
 <p align="center" width="100%">
 <img src="./../images/iai.png" width="224px" height="136px" title="IAI">
 <img src="./../images/qr_code.png" width="136px" height="136px" title="https://leebyunggook.github.io/"> 
-<img src="./../images/tlogo.png" width="112px" height="98px" title="IAI">
+<img src="./../images/tlogo.png" width="156px" height="136px" title="IAI"> 
 </p>
   
 [https://leebyunggook.github.io/](https://leebyunggook.github.io/)  
