@@ -207,6 +207,6 @@ Workshops :
   
 [https://leebyunggook.github.io/](https://leebyunggook.github.io/)  
 [http://kowon.dongseo.ac.kr/~lbg/](http://kowon.dongseo.ac.kr/~lbg/)  
-[IAI - Institute of Ambient Intelligence](https://sites.google.com/view/instituteofambientintelligence/home)
+[Institute of Ambient Intelligence](https://sites.google.com/view/instituteofambientintelligence/home)
 
 
