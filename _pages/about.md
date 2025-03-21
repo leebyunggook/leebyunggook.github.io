@@ -200,8 +200,8 @@ Workshops :
 [Organizing Chair](https://photos.app.goo.gl/VPqRWtKJRR45UrtB8), MMU, Kuala Lumpur, Malaysia, July 9~11, 2017  
 
 <p align="center" width="100%">
-<img src="./../images/qr_code.png" width="200px" height="200px" title="https://leebyunggook.github.io/">  
-<img src="./../images/iai.png" height="200px" title="IAI">  
+<img src="./../images/qr_code.png" width="120px" height="120px" title="https://leebyunggook.github.io/">  
+<img src="./../images/iai.png" height="100px" title="IAI">  
 </p>
   
 [https://leebyunggook.github.io/](https://leebyunggook.github.io/)  
