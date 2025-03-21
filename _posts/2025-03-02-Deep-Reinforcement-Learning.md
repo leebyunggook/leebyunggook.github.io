@@ -1,7 +1,7 @@
 ---
 title: 'Deep Reinforcement Learning'
 date: 2025-03-02
-permalink: /posts/2025/03/blog-post-1/
+permalink: /posts/2025/03/Deep-Reinforcement-Learning/
 tags:
   - Deep
   - Reinforcement 
