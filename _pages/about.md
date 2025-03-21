@@ -1,202 +1,49 @@
 ---
 permalink: /
-title: ""
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-IAI Meetings 
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+A data-driven personal website
 ======
-[Members](https://docs.google.com/spreadsheets/d/1AjLDKGMdpbTXK5bkp-BO-iJkS1iQSlScNOB6wQT8nRc/edit?usp=sharing) :
-[251](https://docs.google.com/document/d/1EsW4Ao1xVWMMhMDEi0rlJfgP_Stotn3OjjFyir2QZ0A/edit?usp=sharing)
-[242](https://docs.google.com/document/d/1E43TMEiYiVuvVg04571IuzTHr8KVieo27xTeAli8PY4/edit?usp=sharing)
-[241](https://docs.google.com/document/d/1zwyVgTlkTmRY_pka3YQB_btVy6Q6mNn_d-qkqeTIv5c/edit?usp=sharing)
-[232](https://docs.google.com/document/d/18YksivOxUyoCf-R6ayS6i3pT2q1IC8PcPxXz2BfhOuQ/edit?usp=sharing)
-[231](https://docs.google.com/document/d/1HDdOVI25bEeiLAV7wsoa6F5Dn3RLXB3iZSHs8veYOnE/edit?usp=share_link)
-[222](https://docs.google.com/document/d/1sqCHLl4zXcVcrI6J_fP848WcfhrmBR_CNUEXJ0_ZjRI/edit?usp=sharing)
-[221](https://docs.google.com/document/d/1_LwDSslMsMayCqytUw0nZqa5kdxgpo_OfURolK5NEDo/edit?usp=sharing)
-[212](https://docs.google.com/document/d/1_LwDSslMsMayCqytUw0nZqa5kdxgpo_OfURolK5NEDo/edit?usp=sharing)
-[211](https://docs.google.com/document/d/1L00jQQEN1ZWDaat6Abv_vAfxy80N1Cgc6dVTy252sXI/edit?usp=sharing)
-[202](https://docs.google.com/document/d/11EH02Wse2gbsl18UZHV4YJRY3f7X4_uWQgGOPnMpoEQ/edit?usp=sharing)
-[201](https://drive.google.com/open?id=1VmddcuRSWVJbxhaZxT_tipbpLxmprxHePmPAqt9oZuM)
-[192](https://docs.google.com/document/d/1wc6dlxxoRNEe9-RZ5Q-9ca88cZiJOjyrjrQJzQannUA/edit?usp=sharing)
-[191](https://docs.google.com/document/d/1uaqC93hQOULA-3Jph8b2uth6gcQLa8POWcY3uPDsEHg/edit?usp=sharing)
-[182](https://docs.google.com/document/d/1bcQHJdaG7aS7JzCrjf7UBZ8fjo-22c79OmvpqWK9mOY/edit?usp=sharing)
-[181](https://docs.google.com/document/d/1IDwAZgEwmxVljbXqqeW0gy5cF4qccL014_CELhzBrt4/edit?usp=sharing)
-[172](https://drive.google.com/open?id=1hnEc9GsQ1sznruNFHOXeOEoAhGVtXHDxigqACw_QoQI)
-[171](https://docs.google.com/document/d/1Tt_E-Nzt0HCIPU2rDyWp1skILPTAxvVO-vjkjQEbbZc/edit?usp=sharing)
-[162](https://docs.google.com/document/d/1hqQNpy8RYF7I9EDfU-PwBUjhlaoXc3IyzWneG3cGhbA/edit?usp=sharing)
-[152](https://www.icloud.com/pages/AwBWCAESEIx4-CVZL2UJ5kixvZc63TEaKho7_cpX0IUsO_4QNqQhBFTw0mdQakbde415BnafhmbSncvCit3bhXYRhgMCUCAQEEINYP-YN4K912t4aC8yECL0vkiIJIfRWwk5rXoyQjCn4r#2015-2)
-[gD](https://docs.google.com/document/d/1gPhtPCZdyPZJib_gE5xVwYDKMWaMeFEbZ8_WSHF-sdo/edit?usp=sharing)
-[151](https://docs.google.com/document/d/1CgGe3AJcsn9LhA931h0rWED8mje66h-4qYkRbcQxp-E/edit?usp=sharing)
-[142](https://docs.google.com/document/d/1euTUjxSJI91cX1D28RAV3e3UCLmfFE4iC6bbP7Zj5ko/edit?usp=sharing)
-[141](https://docs.google.com/document/d/1CFqt9oLEbfE2ygCDEF8Xy8p2TeuBNkpo7iBEl3NRVQI/edit?usp=sharing)
-[132](https://docs.google.com/document/d/1vtumaoKSSg910ay1MCQs2ijWHuIDfk1Ywv4F9wzz93g/edit?usp=sharing)
-[131](https://docs.google.com/document/d/1KaFBsg9FJG-nk7zTGd5bB1Yo5_8kSr_HFG5RjNKQxys/edit?usp=sharing)
-[DL](https://docs.google.com/document/d/1-xyWSUiaFZdGCh9pJ5WoYIDNYk0xPJnY-AkDhYDoyPM/edit?usp=sharing)
-[DC](https://drive.google.com/open?id=1nx8bM9zsaUMW0liTaWme0_yw1TG5iOMUksqqYSKb10o)
-[SSD](https://drive.google.com/open?id=1FPwAq91-N0uMX8MQiR9l9dRSh5qt1p1nVRIXkH-R60U)
-[PhD](https://docs.google.com/document/d/1_9nbYpAUmu9G-Zp4JcdxcnMe8gRk-SNPtYEJMycEQDc/edit?usp=sharing)
-[Design](https://docs.google.com/document/d/1ohsDernlyuAY9qntIrUoTjce6Ket3PN10F0nQx_A2zA/edit?usp=sharing)
-[Under](https://docs.google.com/document/d/1EeCU4CdM0ISBjgiyhNoizvZJj6lLQTx6dOeR1qqH79E/edit?usp=sharing)
+Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Lectures : 
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
+Getting started
 ======
-[웹프로그래밍(Web Programming)](https://docs.google.com/document/d/1DIelqz13KJvWNonWlFONPavD1nXrXkX4ZjFuor0YFng/edit?usp=sharing), 
-[컴퓨터그래픽스(Computer Graphics)](https://docs.google.com/document/d/1ws8QLYgxB4Nj_ZnCiqlYsXvPhpzePRtTjaeDrQ2nny8/edit?usp=sharing), 
-[Computer Graphics(MS)](https://drive.google.com/open?id=1P5sw_GTeO1074b7VugKLQXGy23JcZ8JiLATaScqNBQE), 
-[Capstone Design](https://docs.google.com/document/d/1bYFbSYBAbrmrxhRcjVT4JlOUHjFBMOo-tWRMg0uZvP4/edit?usp=sharing), 
-[객체지향프로그램(OOP-Java)](https://drive.google.com/open?id=1Axmj5sCgHwMKalN_4J5sSMNLaU7z30y2y-uXn6oQTjQ), 
-[영상처리(Image Processing)](https://docs.google.com/document/d/1qaZOJ7kA3RFyG-RrI-mh_Tin70rH1cbTu96OaHQRvhA/edit?usp=sharing), 
-[인공지능(AI)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing), 
-[머신러닝(ML)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing), 
-[선박주변상황인지센서기술](https://docs.google.com/document/d/1EcJBqEqrzfczhF4yVvPmwjIGctZFDCpcp3a2fqJnDG4/edit?usp=sharing), 
-[컴퓨터그래픽스(Computer Graphics)](https://drive.google.com/open?id=1DLk2NBAaagQAE4vHliOkZiYeshp8E5P7i_t6xEXPv-s), 
-[Digital Image Processing(MS)](https://docs.google.com/document/d/13uzd5_6CkAahbVXql1GqS1SA3M4ySScNe9Uf3EDgMkk/edit?usp=sharing), 
-[Computer Vision(MS)](https://drive.google.com/open?id=1sB1zkrUjNu39_mJV-ewqLZBx7sBneBe96yJoPJS1l6Q), 
-[Statistical Learning(MS)](https://docs.google.com/document/d/1-Mk8ICZ-cTzDBHtl2xLuo3tRAFYpiFSyscE4lYNY0f8/edit?usp=sharing), 
-[Natural Language Programming(MS)](https://docs.google.com/document/d/1v-VuDiE1_xePzTqUUiEVHEiV_AgnpWlQcBTYa6g9GsY/edit?usp=sharing), 
-[more...](http://kowon.dongseo.ac.kr/~lbg/lectures.html)
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
 
-youTubes : 
-======
-[Multi Level Visualization AR](https://www.youtube.com/watch?v=-KrscAONVwI)
-[LOOKEDU Video](https://www.youtube.com/watch?v=2Byzr1nQ-aE)
-[CubeAR](https://www.youtube.com/watch?v=GrdSEtdKWIs)
-[Magical Sketchpad](https://www.youtube.com/watch?v=y3w33wE_OrM)
-[Pictomation](http://www.youtube.com/watch?v=l-ZW9Io1kNY)
-[ShallWeDance](http://www.youtube.com/watch?v=sMjqvxJB_Yc)
-[Mini Car using Kinect and Arduino](https://www.youtube.com/watch?v=WFNtsA8P8D8)
-[Kinect+Deform2D](https://www.youtube.com/watch?v=HKt8Qt4bLvI)
-[1-inch UniTouch System using Kinect](http://youtu.be/IeXT2r1bYBY)
-[Kinect&DJ](https://www.youtube.com/watch?v=GXdPaQPfHH0)
-[InterativeBoard](http://www.youtube.com/watch?v=NOU1lXR4JKo)
-[LaserPoint](http://www.youtube.com/watch?v=-tuS3GbHtV8)
-[StereoCamera](http://www.youtube.com/watch?v=v5HNT_okvI8)
-[MTS1](http://www.youtube.com/watch?v=nyhyB3gE1aw)
-[MTS2](http://www.youtube.com/watch?v=zFMOtzpkgQo)
-[Uochestra](http://www.youtube.com/watch?v=9-fKpwGm0Cg)
-[HandTracking](http://www.youtube.com/watch?v=19NqwLUM624)
-[Hanguel](http://www.youtube.com/watch?v=pkLJi_Gz1nI)
-[ImageDeformation](http://www.youtube.com/watch?v=s1FcSpLabhw)
-[Eye Tracking with Kinect](http://www.youtube.com/watch?v=35AYNqk8Yrw)
-[DPII 3D Display System](https://www.youtube.com/watch?v=p-aoKsvyqjY)
-[Air-touch Interaction System](https://www.youtube.com/watch?v=KiVnVFinXc0)
-[Virtual meeting room](https://youtu.be/Bx0Y_ItbFsk)
-[IAI](https://www.youtube.com/watch?v=NmQIxMCwbns)
-[miniQ](https://www.youtube.com/watch?v=NkSvHTp3Pxs)
-[Multimodal](https://www.youtube.com/watch?v=x-EYtzSvTuw)
-[AR Museum](https://www.youtube.com/watch?v=eWA_kv97aVY)
+Site-wide configuration
+------
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-iArts Workshops : 
-======
-[MMU20](https://docs.google.com/document/d/1DIQ1yYRDjw8Hk3YHA-Z5aGQYpv2FouJ6wkCpWxysAo8/edit?usp=sharing"), 
-[MMU18](https://drive.google.com/open?id=1cuwvMuK_WvP05z6Cqtsk9OZaZAdTbLaDff7Jx22NWu0"), 
-[SUES17](https://drive.google.com/open?id=10foAEKScpxV0RcxJ2QZo8rUK1ilYuf5v8kkn9XjrM7g"), 
-[MMU17](https://docs.google.com/document/d/1StGAyoRR1p12MKNoto0BxGd5Q0It1PMpDVP8WzRLFrs/edit?usp=sharing"), 
-[Korea17](https://docs.google.com/document/d/1vqntqYoxsMli9Ccrbdjfbl6IfrCHc8R4tF8cQMDh3JE/edit?usp=sharing"), 
-[LAFA17](https://drive.google.com/open?id=1TKOrWB9NXCcLHcdzKLcWCPTpnFkiPg9PlUCEgKeInD8"), 
-[UTAR17](https://docs.google.com/document/d/1oFjbqwLWMKI9TX18kGb3eBQvhCC7n3E32WYOW8vsIdE/edit?usp=sharing"), 
-[MMU16](https://docs.google.com/document/d/1MKgtdiFB9U2PfXJZy8Ck-ex1_CNjMtjLEYOVAy7VCus/edit?usp=sharing"), 
-[MMU15](https://docs.google.com/document/d/1jh8uVB-_BiuXjNCrOUNkXZOTSlNAUcrhbfLkiEUIXB8/edit?usp=sharing"), 
-[Ciputra15](https://docs.google.com/document/d/1_-fr_59ibMk3cYkOeFhnR-HZS1Tr9bTz-Y9nveApVGc/edit?usp=sharing"), 
-[MMU15](https://docs.google.com/document/d/1a8kZoDGI69jRhpHavPRd9nN0dCg9brjpB6Q38dV7HLQ/edit?usp=sharing"), 
-[UTAR15](https://docs.google.com/document/d/1CglgNMwFAE9eJDWt667CC0saD_dVw3C8pbDmoaCoV8k/edit?usp=sharing"), 
-[LAFA14](https://docs.google.com/document/d/11TnKxK6UBFt025_vhcHmfLfld6JCRsJGthnGQkLv0a4/edit?usp=sharing"), 
-[MMU14](https://docs.google.com/document/d/1sJU2C2OpVOR_QYH5DiNBr8wq95VqVFzhB4gpsT3nA84/edit?usp=sharing"), 
-[Ciputra14](https://docs.google.com/document/d/1FHQAJgcozmxqHPGSevVinfKPTeEH5ZJW7NlR2AK_ftM/edit?usp=sharing"), 
-[LAFA13](https://drive.google.com/open?id=1nN0V-wnO2EKKu2Lvvq7WJR3kvmiofo0FqWqnYJIAoUM"), 
-[LAFA12](https://docs.google.com/document/d/1WzXqQXqNPdQ0ZDyc5IMJAJ04l0SL0hfjOETb2hKnqZM/edit"), 
+Create content & metadata
+------
+For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-Korea Mathematical Methods for Curves and Surfaces
-======
-[35](https://docs.google.com/document/d/1j5MIEVHpqOdAu2lAsDmOFpu5NjgIxDaq0HuXbudSnJI/edit?usp=sharing)
-[34](https://docs.google.com/document/d/1UI4Ic3ARTsrrDqf7KNpR18JgzpCixYd462X7Ksx-u1g/edit?usp=sharing)
-[33](https://docs.google.com/document/d/1v5sXl4leuQAZlmUjRyuRsaRntCC7YoYe5xH1CE3zv8s/edit?usp=sharing)
-[32](https://docs.google.com/document/d/1GzWfaUJ016oGNgu-LuggMJTKWjBiBdCWDlXaMW3CnFg/edit?usp=sharing)
-[31](https://docs.google.com/document/d/17Tonay23ppScW1w3jBEyKKp5uv4a5CvWZEPiu2fBRps/edit?usp=sharing)
-[30](https://docs.google.com/document/d/1zJbiuLE4D7Ztqc9Cbtl5jAL_hmnMDnWgKxNwIiKHqOg/edit?usp=sharing)
-[29](https://docs.google.com/document/d/1ztA2zuL80mVlBZDURswkoVqG0dIhz_TapP5zaij7mOc/edit?usp=sharing)
-[28](https://docs.google.com/document/d/1ePYBvzc63OJ6QL3c7F56virLtJKfdnm4_JI0xsLll38/edit?usp=sharing)
-[27](https://docs.google.com/document/d/132kWY-mxwhVBRcIblkYO1e0udgsiYOhBePvG-JnxlZE/edit?usp=sharing)
-[26](https://docs.google.com/document/d/1sV2J4ai44h3GUco_EuNxZby8TzkIsL2Q0uwlZMaHKMg/edit?usp=sharing)
-[25](https://docs.google.com/document/d/1QJYZNnsSQOgZTxFXhuO6xORQU0NAzp8iCM-LeyTDShQ/edit?usp=sharing)
-[24](https://docs.google.com/document/d/152ZapPxTMh6hXDTzdTaC0Y-kYzCUesyZWbe2yxWAx1o/edit?usp=sharing)
-[23](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs1202.html)
-[22](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs1112.html)
-[21](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs1109.html)
-[20](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs1107.html)
-[19](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs1008.html)
-[18](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs1003.html)
-[17](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs1001.html)
-[16](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0910.html)
-[15](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0908.html)
-[14](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0802.html)
-[13](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0707.html)
-[12](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0610.html)
-[11](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0608.html)
-[10](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0604.html)
-[9](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0601.html)
-[8](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0506.html)
-[7](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0502.html)
-[6](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0408.html)
-[5](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0406.html)
-[4](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0401.html)
-[3](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0310.html)
-[2](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0308.html)
-[1](http://kowon.dongseo.ac.kr/~lbg/cagd/kmmcs/kmmcs0304.html)
+**Markdown generator**
 
-Workshops : 
-======
-[geri](https://docs.google.com/document/d/15K1YZYfIG9IF4X3-Ds8qZk1Zx3f7v5VaGJ45sTBHxRE/edit?usp=sharing), 
-[bologna](https://docs.google.com/document/d/1YIJWCkQWLKm5K9owXhQAj2bpEZdkX-4_Uumo58oMyGE/edit?usp=sharing), 
-[parkjinho](https://docs.google.com/document/d/1Xvn0mbIb1tuQZyGHvObfbJCaFSA8WBWzejzN_bEDBRg/edit?usp=sharing), 
-[hankyong](https://docs.google.com/document/d/1D4SnAXhaOAZ7UcmaTh55igR4BRt_L-YEdnquc0BjS_M/edit?usp=sharing), 
-[oita1](http://kowon.dongseo.ac.kr/~lbg/seminar/oita1.html), 
-[realhub](http://kowon.dongseo.ac.kr/~lbg/seminar/realhub.html), 
-[jilin](http://kowon.dongseo.ac.kr/~lbg/seminar/jilin.html), 
-[cityu](http://kowon.dongseo.ac.kr/~lbg/seminar/cityu.html), 
-[ewha3](http://kowon.dongseo.ac.kr/~lbg/seminar/ewha3.html), 
-[iai6](http://kowon.dongseo.ac.kr/~lbg/seminar/iai6.html), 
-[ntu](http://kowon.dongseo.ac.kr/~lbg/seminar/ntu.html), 
-[okta](http://kowon.dongseo.ac.kr/~lbg/seminar/okta.html), 
-[etri3](http://kowon.dongseo.ac.kr/~lbg/seminar/etri3.html), 
-[azworks](http://kowon.dongseo.ac.kr/~lbg/seminar/azworks1.html), 
-[tau](http://kowon.dongseo.ac.kr/~lbg/seminar/levin.html), 
-[etri2](http://kowon.dongseo.ac.kr/~lbg/seminar/etri2.html), 
-[iai5](http://kowon.dongseo.ac.kr/~lbg/seminar/iai5.html), 
-[nims](http://kowon.dongseo.ac.kr/~lbg/seminar/nims.html), 
-[ms](http://kowon.dongseo.ac.kr/~lbg/seminar/ms.html), 
-[etri1](http://kowon.dongseo.ac.kr/~lbg/seminar/etri1.html), 
-[ncsu](http://kowon.dongseo.ac.kr/~lbg/seminar/hoonhong.html), 
-[iai4](http://kowon.dongseo.ac.kr/~lbg/seminar/iai4.html), 
-[iai3](http://kowon.dongseo.ac.kr/~lbg/seminar/iai3.html), 
-[oita](http://kowon.dongseo.ac.kr/~lbg/seminar/oita.html), 
-[etri](http://kowon.dongseo.ac.kr/~lbg/seminar/etri.html), 
-[ewha](http://kowon.dongseo.ac.kr/~lbg/seminar/ewha.html), 
-[wisconsin](http://kowon.dongseo.ac.kr/~lbg/seminar/amosron.html), 
-[iai2](http://kowon.dongseo.ac.kr/~lbg/seminar/iai2.html), 
-[iai1](http://kowon.dongseo.ac.kr/~lbg/seminar/iai1.html), 
-[wibro](http://kowon.dongseo.ac.kr/~lbg/seminar/wibro.html), 
-[seoul](http://kowon.dongseo.ac.kr/~lbg/seminar/seoul.html), 
-[hit](http://kowon.dongseo.ac.kr/~lbg/seminar/hit.html), 
-[3b](http://kowon.dongseo.ac.kr/~lbg/seminar/3b.html), 
-[kist](http://kowon.dongseo.ac.kr/~lbg/seminar/kist.html), 
-[ftk](http://kowon.dongseo.ac.kr/~lbg/seminar/ftk.html)  
+The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-[Maritime Computer Vision Workshop@BITS 2024](https://sites.google.com/view/wmacv2024bits/home)  
-[Deep Learning for Maritime Workshop@BITS 2025](https://sites.google.com/view/wmadl2025bits/home)
-[XR Metaverse Booster Camp 2021](https://sites.google.com/view/xrcontentsboostercamp/):
-[program](https://docs.google.com/document/d/1LV99iFNGA-YPBqyjLhFH2iSDvKovPqhDJvyGw8kCclk/edit)  
-[MITA2018](https://sites.google.com/view/mita2018/),
-[Organizing Chair](https://photos.app.goo.gl/ZupQHwy2jLuxtxJJ8), SUES, Shanghai, China, June 28~30, 2018  
-[MITA2017](https://sites.google.com/view/mita2017/),
-[Organizing Chair](https://photos.app.goo.gl/VPqRWtKJRR45UrtB8), MMU, Kuala Lumpur, Malaysia, July 9~11, 2017
+How to edit your site's GitHub repository
+------
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-<p align="center" width="100%">
-<img src="./../images/qr_code.png" width="200px" height="200px" title="https://leebyunggook.github.io/">  
-</p>
-  
-[https://leebyunggook.github.io/](https://leebyunggook.github.io/)
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
+
+For more info
+------
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
