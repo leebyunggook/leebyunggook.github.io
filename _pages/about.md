@@ -204,6 +204,6 @@ Workshops :
 </p>
   
 [https://leebyunggook.github.io/](https://leebyunggook.github.io/)  
-[https://kowon.dongseo.ac.kr/~lbg/](https://kowon.dongseo.ac.kr/~lbg/)  
+[http://kowon.dongseo.ac.kr/~lbg/](http://kowon.dongseo.ac.kr/~lbg/)  
 
 
