@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+[Publications](https://docs.google.com/document/d/1ihRK-oNP-g5SIBHA_Enh2znHGlsM39e5hsz3e3ppj-I/edit?tab=t.0)
+======
+[lists](https://docs.google.com/document/d/1ihRK-oNP-g5SIBHA_Enh2znHGlsM39e5hsz3e3ppj-I/edit?tab=t.0)
+
 IAI Meetings 
 ======
 [Members](https://docs.google.com/spreadsheets/d/1AjLDKGMdpbTXK5bkp-BO-iJkS1iQSlScNOB6wQT8nRc/edit?usp=sharing) :
