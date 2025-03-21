@@ -1,6 +1,6 @@
 ---
 title: "2015년 미래부 국가연구개발 우수 성과 100선 선정"
-excerpt: "2015년 미래부 국가연구개발 우수 성과 100선 선정<br/><img src='/images/busanilbo.png'>"
+excerpt: "2015년 미래부 국가연구개발 우수 성과 100선 선정<br/><img src='/images/busanilbo.jpg'>"
 collection: portfolio
 ---
 
