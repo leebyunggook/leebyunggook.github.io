@@ -96,23 +96,23 @@ youTubes :
 
 iArts Workshops : 
 ======
-[MMU20](https://docs.google.com/document/d/1DIQ1yYRDjw8Hk3YHA-Z5aGQYpv2FouJ6wkCpWxysAo8/edit?usp=sharing"), 
-[MMU18](https://drive.google.com/open?id=1cuwvMuK_WvP05z6Cqtsk9OZaZAdTbLaDff7Jx22NWu0"), 
-[SUES17](https://drive.google.com/open?id=10foAEKScpxV0RcxJ2QZo8rUK1ilYuf5v8kkn9XjrM7g"), 
-[MMU17](https://docs.google.com/document/d/1StGAyoRR1p12MKNoto0BxGd5Q0It1PMpDVP8WzRLFrs/edit?usp=sharing"), 
-[Korea17](https://docs.google.com/document/d/1vqntqYoxsMli9Ccrbdjfbl6IfrCHc8R4tF8cQMDh3JE/edit?usp=sharing"), 
-[LAFA17](https://drive.google.com/open?id=1TKOrWB9NXCcLHcdzKLcWCPTpnFkiPg9PlUCEgKeInD8"), 
-[UTAR17](https://docs.google.com/document/d/1oFjbqwLWMKI9TX18kGb3eBQvhCC7n3E32WYOW8vsIdE/edit?usp=sharing"), 
-[MMU16](https://docs.google.com/document/d/1MKgtdiFB9U2PfXJZy8Ck-ex1_CNjMtjLEYOVAy7VCus/edit?usp=sharing"), 
-[MMU15](https://docs.google.com/document/d/1jh8uVB-_BiuXjNCrOUNkXZOTSlNAUcrhbfLkiEUIXB8/edit?usp=sharing"), 
-[Ciputra15](https://docs.google.com/document/d/1_-fr_59ibMk3cYkOeFhnR-HZS1Tr9bTz-Y9nveApVGc/edit?usp=sharing"), 
-[MMU15](https://docs.google.com/document/d/1a8kZoDGI69jRhpHavPRd9nN0dCg9brjpB6Q38dV7HLQ/edit?usp=sharing"), 
-[UTAR15](https://docs.google.com/document/d/1CglgNMwFAE9eJDWt667CC0saD_dVw3C8pbDmoaCoV8k/edit?usp=sharing"), 
-[LAFA14](https://docs.google.com/document/d/11TnKxK6UBFt025_vhcHmfLfld6JCRsJGthnGQkLv0a4/edit?usp=sharing"), 
-[MMU14](https://docs.google.com/document/d/1sJU2C2OpVOR_QYH5DiNBr8wq95VqVFzhB4gpsT3nA84/edit?usp=sharing"), 
-[Ciputra14](https://docs.google.com/document/d/1FHQAJgcozmxqHPGSevVinfKPTeEH5ZJW7NlR2AK_ftM/edit?usp=sharing"), 
-[LAFA13](https://drive.google.com/open?id=1nN0V-wnO2EKKu2Lvvq7WJR3kvmiofo0FqWqnYJIAoUM"), 
-[LAFA12](https://docs.google.com/document/d/1WzXqQXqNPdQ0ZDyc5IMJAJ04l0SL0hfjOETb2hKnqZM/edit"), 
+[MMU20](https://docs.google.com/document/d/1DIQ1yYRDjw8Hk3YHA-Z5aGQYpv2FouJ6wkCpWxysAo8/edit?usp=sharing")
+[MMU18](https://drive.google.com/open?id=1cuwvMuK_WvP05z6Cqtsk9OZaZAdTbLaDff7Jx22NWu0")
+[SUES17](https://drive.google.com/open?id=10foAEKScpxV0RcxJ2QZo8rUK1ilYuf5v8kkn9XjrM7g") 
+[MMU17](https://docs.google.com/document/d/1StGAyoRR1p12MKNoto0BxGd5Q0It1PMpDVP8WzRLFrs/edit?usp=sharing") 
+[Korea17](https://docs.google.com/document/d/1vqntqYoxsMli9Ccrbdjfbl6IfrCHc8R4tF8cQMDh3JE/edit?usp=sharing") 
+[LAFA17](https://drive.google.com/open?id=1TKOrWB9NXCcLHcdzKLcWCPTpnFkiPg9PlUCEgKeInD8")
+[UTAR17](https://docs.google.com/document/d/1oFjbqwLWMKI9TX18kGb3eBQvhCC7n3E32WYOW8vsIdE/edit?usp=sharing") 
+[MMU16](https://docs.google.com/document/d/1MKgtdiFB9U2PfXJZy8Ck-ex1_CNjMtjLEYOVAy7VCus/edit?usp=sharing") 
+[MMU15](https://docs.google.com/document/d/1jh8uVB-_BiuXjNCrOUNkXZOTSlNAUcrhbfLkiEUIXB8/edit?usp=sharing") 
+[Ciputra15](https://docs.google.com/document/d/1_-fr_59ibMk3cYkOeFhnR-HZS1Tr9bTz-Y9nveApVGc/edit?usp=sharing")
+[MMU15](https://docs.google.com/document/d/1a8kZoDGI69jRhpHavPRd9nN0dCg9brjpB6Q38dV7HLQ/edit?usp=sharing")
+[UTAR15](https://docs.google.com/document/d/1CglgNMwFAE9eJDWt667CC0saD_dVw3C8pbDmoaCoV8k/edit?usp=sharing")
+[LAFA14](https://docs.google.com/document/d/11TnKxK6UBFt025_vhcHmfLfld6JCRsJGthnGQkLv0a4/edit?usp=sharing")
+[MMU14](https://docs.google.com/document/d/1sJU2C2OpVOR_QYH5DiNBr8wq95VqVFzhB4gpsT3nA84/edit?usp=sharing")
+[Ciputra14](https://docs.google.com/document/d/1FHQAJgcozmxqHPGSevVinfKPTeEH5ZJW7NlR2AK_ftM/edit?usp=sharing")
+[LAFA13](https://drive.google.com/open?id=1nN0V-wnO2EKKu2Lvvq7WJR3kvmiofo0FqWqnYJIAoUM")
+[LAFA12](https://docs.google.com/document/d/1WzXqQXqNPdQ0ZDyc5IMJAJ04l0SL0hfjOETb2hKnqZM/edit")
 
 Korea Mathematical Methods for Curves and Surfaces
 ======
@@ -154,41 +154,41 @@ Korea Mathematical Methods for Curves and Surfaces
 
 Workshops : 
 ======
-[geri](https://docs.google.com/document/d/15K1YZYfIG9IF4X3-Ds8qZk1Zx3f7v5VaGJ45sTBHxRE/edit?usp=sharing), 
-[bologna](https://docs.google.com/document/d/1YIJWCkQWLKm5K9owXhQAj2bpEZdkX-4_Uumo58oMyGE/edit?usp=sharing), 
-[parkjinho](https://docs.google.com/document/d/1Xvn0mbIb1tuQZyGHvObfbJCaFSA8WBWzejzN_bEDBRg/edit?usp=sharing), 
-[hankyong](https://docs.google.com/document/d/1D4SnAXhaOAZ7UcmaTh55igR4BRt_L-YEdnquc0BjS_M/edit?usp=sharing), 
-[oita1](http://kowon.dongseo.ac.kr/~lbg/seminar/oita1.html), 
-[realhub](http://kowon.dongseo.ac.kr/~lbg/seminar/realhub.html), 
-[jilin](http://kowon.dongseo.ac.kr/~lbg/seminar/jilin.html), 
-[cityu](http://kowon.dongseo.ac.kr/~lbg/seminar/cityu.html), 
-[ewha3](http://kowon.dongseo.ac.kr/~lbg/seminar/ewha3.html), 
-[iai6](http://kowon.dongseo.ac.kr/~lbg/seminar/iai6.html), 
-[ntu](http://kowon.dongseo.ac.kr/~lbg/seminar/ntu.html), 
-[okta](http://kowon.dongseo.ac.kr/~lbg/seminar/okta.html), 
-[etri3](http://kowon.dongseo.ac.kr/~lbg/seminar/etri3.html), 
-[azworks](http://kowon.dongseo.ac.kr/~lbg/seminar/azworks1.html), 
-[tau](http://kowon.dongseo.ac.kr/~lbg/seminar/levin.html), 
-[etri2](http://kowon.dongseo.ac.kr/~lbg/seminar/etri2.html), 
-[iai5](http://kowon.dongseo.ac.kr/~lbg/seminar/iai5.html), 
-[nims](http://kowon.dongseo.ac.kr/~lbg/seminar/nims.html), 
-[ms](http://kowon.dongseo.ac.kr/~lbg/seminar/ms.html), 
-[etri1](http://kowon.dongseo.ac.kr/~lbg/seminar/etri1.html), 
-[ncsu](http://kowon.dongseo.ac.kr/~lbg/seminar/hoonhong.html), 
-[iai4](http://kowon.dongseo.ac.kr/~lbg/seminar/iai4.html), 
-[iai3](http://kowon.dongseo.ac.kr/~lbg/seminar/iai3.html), 
-[oita](http://kowon.dongseo.ac.kr/~lbg/seminar/oita.html), 
-[etri](http://kowon.dongseo.ac.kr/~lbg/seminar/etri.html), 
-[ewha](http://kowon.dongseo.ac.kr/~lbg/seminar/ewha.html), 
-[wisconsin](http://kowon.dongseo.ac.kr/~lbg/seminar/amosron.html), 
-[iai2](http://kowon.dongseo.ac.kr/~lbg/seminar/iai2.html), 
-[iai1](http://kowon.dongseo.ac.kr/~lbg/seminar/iai1.html), 
-[wibro](http://kowon.dongseo.ac.kr/~lbg/seminar/wibro.html), 
-[seoul](http://kowon.dongseo.ac.kr/~lbg/seminar/seoul.html), 
-[hit](http://kowon.dongseo.ac.kr/~lbg/seminar/hit.html), 
-[3b](http://kowon.dongseo.ac.kr/~lbg/seminar/3b.html), 
-[kist](http://kowon.dongseo.ac.kr/~lbg/seminar/kist.html), 
-[ftk](http://kowon.dongseo.ac.kr/~lbg/seminar/ftk.html)  
+[geri](https://docs.google.com/document/d/15K1YZYfIG9IF4X3-Ds8qZk1Zx3f7v5VaGJ45sTBHxRE/edit?usp=sharing)
+[bologna](https://docs.google.com/document/d/1YIJWCkQWLKm5K9owXhQAj2bpEZdkX-4_Uumo58oMyGE/edit?usp=sharing)
+[parkjinho](https://docs.google.com/document/d/1Xvn0mbIb1tuQZyGHvObfbJCaFSA8WBWzejzN_bEDBRg/edit?usp=sharing)
+[hankyong](https://docs.google.com/document/d/1D4SnAXhaOAZ7UcmaTh55igR4BRt_L-YEdnquc0BjS_M/edit?usp=sharing)
+[oita1](http://kowon.dongseo.ac.kr/~lbg/seminar/oita1.html)
+[realhub](http://kowon.dongseo.ac.kr/~lbg/seminar/realhub.html)
+[jilin](http://kowon.dongseo.ac.kr/~lbg/seminar/jilin.html)
+[cityu](http://kowon.dongseo.ac.kr/~lbg/seminar/cityu.html)
+[ewha3](http://kowon.dongseo.ac.kr/~lbg/seminar/ewha3.html)
+[iai6](http://kowon.dongseo.ac.kr/~lbg/seminar/iai6.html)
+[ntu](http://kowon.dongseo.ac.kr/~lbg/seminar/ntu.html)
+[okta](http://kowon.dongseo.ac.kr/~lbg/seminar/okta.html)
+[etri3](http://kowon.dongseo.ac.kr/~lbg/seminar/etri3.html)
+[azworks](http://kowon.dongseo.ac.kr/~lbg/seminar/azworks1.html)
+[tau](http://kowon.dongseo.ac.kr/~lbg/seminar/levin.html)
+[etri2](http://kowon.dongseo.ac.kr/~lbg/seminar/etri2.html)
+[iai5](http://kowon.dongseo.ac.kr/~lbg/seminar/iai5.html)
+[nims](http://kowon.dongseo.ac.kr/~lbg/seminar/nims.html)
+[ms](http://kowon.dongseo.ac.kr/~lbg/seminar/ms.html)
+[etri1](http://kowon.dongseo.ac.kr/~lbg/seminar/etri1.html)
+[ncsu](http://kowon.dongseo.ac.kr/~lbg/seminar/hoonhong.html)
+[iai4](http://kowon.dongseo.ac.kr/~lbg/seminar/iai4.html)
+[iai3](http://kowon.dongseo.ac.kr/~lbg/seminar/iai3.html)
+[oita](http://kowon.dongseo.ac.kr/~lbg/seminar/oita.html)
+[etri](http://kowon.dongseo.ac.kr/~lbg/seminar/etri.html)
+[ewha](http://kowon.dongseo.ac.kr/~lbg/seminar/ewha.html) 
+[wisconsin](http://kowon.dongseo.ac.kr/~lbg/seminar/amosron.html)
+[iai2](http://kowon.dongseo.ac.kr/~lbg/seminar/iai2.html)
+[iai1](http://kowon.dongseo.ac.kr/~lbg/seminar/iai1.html)
+[wibro](http://kowon.dongseo.ac.kr/~lbg/seminar/wibro.html)
+[seoul](http://kowon.dongseo.ac.kr/~lbg/seminar/seoul.html)
+[hit](http://kowon.dongseo.ac.kr/~lbg/seminar/hit.html)
+[3b](http://kowon.dongseo.ac.kr/~lbg/seminar/3b.html)
+[kist](http://kowon.dongseo.ac.kr/~lbg/seminar/kist.html)
+[ftk](http://kowon.dongseo.ac.kr/~lbg/seminar/ftk.html)
 
 [Maritime Computer Vision Workshop@BITS 2024](https://sites.google.com/view/wmacv2024bits/home)  
 [Deep Learning for Maritime Workshop@BITS 2025](https://sites.google.com/view/wmadl2025bits/home)  
