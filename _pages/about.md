@@ -9,7 +9,7 @@ redirect_from:
 
 Publications
 ======
-[lists](https://docs.google.com/document/d/1ihRK-oNP-g5SIBHA_Enh2znHGlsM39e5hsz3e3ppj-I/edit?tab=t.0)
+[full lists](https://docs.google.com/document/d/1ihRK-oNP-g5SIBHA_Enh2znHGlsM39e5hsz3e3ppj-I/edit?tab=t.0)
 
 IAI Meetings 
 ======
