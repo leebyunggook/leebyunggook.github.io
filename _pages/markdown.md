@@ -9,6 +9,7 @@ redirect_from:
 
 ## Projects
 
+* RS-2023-00236928 개인정보보호위원회 한국인터넷진흥원 개인정보기술표준개발지원(R&D) Standardardization of Personal Information Security Requirements for Metaverse Environments 메타버스 환경에서 개인정보보호 요구사항 표준, 2023.04.01~2025.12.31
 * This work was supported by the National Research Foundation of Korea grant funded by the Korea government(MSIT) (No. 2020R1A2C1008589). 이 성과는 정부(과학기술정보통신부)의 재원으로 한국연구재단의 지원을 받아 수행된 연구임(No. 2020R1A2C1008589). Secure Healthcare-Cloud Framework for AI-based Resource Management, AI 기반의 자원 관리를 위한 안전한 헬스케어-클라우드 프레임워크, 중견연구 2020.03.01 ~ 2025.02.28
 * 2021년도 스포츠산업혁신기반조성(R&D)사업 2021 Sports Industry Innovation Foundation(R&D) Project (지정-5)실내 스포츠 이용자 안전을 위한 스마트체육시설 기술개발 Development of smart sports facility technology for the safety of indoor sports users - 다중 카메라 영상 기반 실내 스포츠 이용자 행동 패턴 인식 SW 개발 2021.04.01 ~ 2022.12.31
 * 정보보호핵심원천기술개발사업(국가공공정보보호인프라강화) 1711073998 This work was supported by Institute for Information and Communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (No.2018-0-00245, Development of prevention technology against AI dysfunction induced by deception attack) 이 논문은 2018년도 정부(과학기술정보통신부)의 재원으로 정보통신기술진흥센터의 지원을 받아 수행된 연구임 (No.2018-0-00245, 기만공격에 의한 AI 역기능 방지 기술 개발) 2018.04.01 ~ 2020.12.31
