@@ -199,9 +199,9 @@ Workshops :
 [MITA2017](https://sites.google.com/view/mita2017/),
 [Organizing Chair](https://photos.app.goo.gl/VPqRWtKJRR45UrtB8), MMU, Kuala Lumpur, Malaysia, July 9~11, 2017  
 [NECPA(Non-Euclidean Computation and Algorithms)](http://necpa.zcu.cz/)  
-[AppCenter@DSU](http://kowon.dongseo.ac.kr/~lbg/AppCenter/index.html)  
 [iArt(interactive Multimedia Art)](http://kowon.dongseo.ac.kr/~lbg/iArt/index.html)  
 [International Conference](http://kowon.dongseo.ac.kr/~lbg/conferencelist.html)  
+[AppCenter@DSU](http://kowon.dongseo.ac.kr/~lbg/AppCenter/index.html)  
 
 <p align="center" width="100%">
 <img src="./../images/iai.png" width="224px" height="136px" title="IAI">
