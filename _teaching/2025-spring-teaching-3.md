@@ -1,9 +1,9 @@
 ---
 title: "Computer Graphics MS"
 collection: teaching
-type: "Graduate master degree course"
+type: "Graduate"
 permalink: /teaching/2025-spring-teaching-3
-venue: "Dongseo University, Department of Computer Engineering"
+venue: "Department of Computer Engineering, Dongseo University"
 date: 2025-03-02
 location: "Busan, Korea"
 ---
