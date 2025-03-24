@@ -204,7 +204,7 @@ Workshops :
 [AppCenter@DSU](http://kowon.dongseo.ac.kr/~lbg/AppCenter/index.html)  
 
 
-
+<br> <br>
 <p align="center" width="100%">
 <img src="./../images/iai.png" width="224px" height="136px" title="IAI">
 <img src="./../images/qr_code.png" width="136px" height="136px" title="https://leebyunggook.github.io/"> 
