@@ -1,9 +1,9 @@
 ---
 title: "Web Programming 웹 프로그래밍"
 collection: teaching
-type: "Undergraduate 2nd year course"
+type: "Undergraduate 2nd Year"
 permalink: /teaching/2025-spring-teaching-1
-venue: "Dongseo University, Department of Computer Engineering"
+venue: "Department of Computer Engineering, Dongseo University"
 date: 2025-03-02
 location: "Busan City, Korea"
 ---
