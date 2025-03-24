@@ -16,31 +16,32 @@ redirect_from:
 * This work was supported by the IT R&D program of MSIP/IITP. [10041682, Development of high-definition 3D image processing technologies using advanced integral imaging with improved depth range] 본 연구는 미래창조과학부 및 정보통신기술진흥센터의 정보통신미디어산업원천기술개발사업의 일환으로 수행하였음. [10041682, 집적영상(IP) 깊이 표현 범위를 개선한 고선명 3D 영상 처리 기술] 2012.06.01 ~ 2015.05.31
 
 ## 부산일보 과학칼럼/국제신문 과학에세이
-* (http://www.busan.com/view/busan/view.php?code=20211222000062)[실감 콘텐츠 메타버스@21.12.22]
-* (http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20141202.22030195713)[3D 프린터가 가져올 세상@14.12.1]
-* (http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20140930.22030203208)[IT 강국, 이제 소프트웨어 강국으로@14.09.29]
-* (http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20140722.22026194717)[영상처리기술에 응용된 음악과 수학@14.07.21]
-* (http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20140520.22030201306)[전자기파와 조난무선통신@14.05.19]
-* (http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20140311.22030201623)[X레이와 방사선 피폭@14.03.10]
-* (http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20140114.22030200828)[한국에서 처음 열리는 '세계수학자대회'@14.01.13]
-* (http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20131112.22030202023)[빅데이터활용과 개인정보 보호@13.11.11]
-* (http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20130903.22030192632)[마우스의 아버지 더글라스 엥겔바트@13.09.02]
-* (http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20130625.22030201110)[디지털 시대의 창조경제@13.06.24]
-* (http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20130423.22030190642)[자연의 아름다움에서 나타나는 숫자0.618…@13.04.22]
-* (http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20130129.22030195130)[이미지센서 이야기@13.01.28]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20071214000322)[IPv6@07.12.14]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20071116000290)[죽어서야 계산을 멈춘 수학자@07.11.16]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20071019000306)[KB, MB, GB, TB, PB, EB, ZB,… @07.10.19]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070921000321)[휴대폰 한글 입력방식 통일을@07.09.21]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070824000324)[작아지고 있는 세상@07.08.24]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070727000333)[하이퍼링크의 세상@07.07.27]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070629000323)[나와 무관하지 않은 좁은 세상@07.06.29]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070601000343)[코흐곡선과 남북철도@07.06.01]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070504000327)[디지털시대의 퓨전·컨버전스 서비스@07.05.04]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070330000324)[디지털 중독의 시대가 다가온다@07.03.30]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070302000342)[초고속인터넷과 소프트웨어 산업@07.03.02]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070202000339)[한 수학자 이야기@07.02.02]
-* (http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070105000332)[유비컬리스트 되기@07.01.05]
+
+* [실감 콘텐츠 메타버스@21.12.22](http://www.busan.com/view/busan/view.php?code=20211222000062)
+* [3D 프린터가 가져올 세상@14.12.1](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20141202.22030195713)
+* [IT 강국, 이제 소프트웨어 강국으로@14.09.29](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20140930.22030203208)
+* [영상처리기술에 응용된 음악과 수학@14.07.21](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20140722.22026194717)
+* [전자기파와 조난무선통신@14.05.19](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20140520.22030201306)
+* [X레이와 방사선 피폭@14.03.10](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20140311.22030201623)
+* [한국에서 처음 열리는 '세계수학자대회'@14.01.13](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20140114.22030200828)
+* [빅데이터활용과 개인정보 보호@13.11.11](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20131112.22030202023)
+* [마우스의 아버지 더글라스 엥겔바트@13.09.02](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20130903.22030192632)
+* [디지털 시대의 창조경제@13.06.24](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20130625.22030201110)
+* [자연의 아름다움에서 나타나는 숫자0.618…@13.04.22](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20130423.22030190642)
+* [이미지센서 이야기@13.01.28](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20130129.22030195130)
+* [IPv6@07.12.14](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20071214000322)
+* [죽어서야 계산을 멈춘 수학자@07.11.16](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20071116000290)
+* [KB, MB, GB, TB, PB, EB, ZB,… @07.10.19](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20071019000306)
+* [휴대폰 한글 입력방식 통일을@07.09.21](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070921000321)
+* [작아지고 있는 세상@07.08.24](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070824000324)
+* [하이퍼링크의 세상@07.07.27](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070727000333)
+* [나와 무관하지 않은 좁은 세상@07.06.29](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070629000323)
+* [코흐곡선과 남북철도@07.06.01](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070601000343)
+* [디지털시대의 퓨전·컨버전스 서비스@07.05.04](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070504000327)
+* [디지털 중독의 시대가 다가온다@07.03.30](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070330000324)
+* [초고속인터넷과 소프트웨어 산업@07.03.02](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070302000342)
+* [한 수학자 이야기@07.02.02](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070202000339)
+* [유비컬리스트 되기@07.01.05](http://news20.busan.com/news/newsController.jsp?sectionId=1010110000&subSectionId=1010110000&newsId=20070105000332)
 
 ## Locations of key files/directories
 
