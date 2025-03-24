@@ -1,9 +1,9 @@
 ---
 title: "Statistical Learning MS"
 collection: teaching
-type: "Graduate master degree course"
+type: "Graduate"
 permalink: /teaching/2025-autumn-teaching-4
-venue: "Dongseo University, Department of Computer Engineering"
+venue: "Department of Computer Engineering, Dongseo University"
 date: 2025-09-02
 location: "Busan, Korea"
 ---
