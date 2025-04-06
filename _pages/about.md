@@ -9,7 +9,11 @@ redirect_from:
 
 Publications
 ======
-[full lists](https://docs.google.com/document/d/1ihRK-oNP-g5SIBHA_Enh2znHGlsM39e5hsz3e3ppj-I/edit?tab=t.0)
+[Papers](https://docs.google.com/document/d/1ihRK-oNP-g5SIBHA_Enh2znHGlsM39e5hsz3e3ppj-I/edit?usp=sharing)
+[Patients](https://docs.google.com/document/d/1pHbSbh8EVqVQDBB0pSx1TQX1rhOIugo-M6sasNwkkF4/edit?usp=sharing)
+[Projets](https://docs.google.com/document/d/1MbFM6sfD3iKShI7-t78cAjP2K7h8PwUUXBoC-owYhGY/edit?usp=sharing)
+[gdsu](https://gdsu.dongseo.ac.kr/xclickr31_dsu/gate/login.jsp?login_locale=ko)
+[rnd](https://dongseo.rndbiz.co.kr/main_0001_03.act)
 
 IAI Meetings 
 ======
