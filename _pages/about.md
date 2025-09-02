@@ -207,14 +207,13 @@ Workshops :
 [iArt(interactive Multimedia Art)](http://kowon.dongseo.ac.kr/~lbg/iArt/index.html)  
 [International Conference](http://kowon.dongseo.ac.kr/~lbg/conferencelist.html)  
 [AppCenter@DSU](http://kowon.dongseo.ac.kr/~lbg/AppCenter/index.html)  
-
 <br>
 <p align="center" width="100%">
 <img src="./../images/iai.png" width="224px" height="136px" title="IAI">
 <img src="./../images/qr_code.png" width="136px" height="136px" title="https://leebyunggook.github.io/"> 
 <img src="./../images/tlogo.png" width="156px" height="136px" title="IAI"> 
 </p>
-  
+
 [https://leebyunggook.github.io/](https://leebyunggook.github.io/)  
 [http://kowon.dongseo.ac.kr/~lbg/](http://kowon.dongseo.ac.kr/~lbg/)  
 [Institute of Ambient Intelligence](https://sites.google.com/view/instituteofambientintelligence/home)
