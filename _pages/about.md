@@ -16,6 +16,7 @@ Publications
 IAI Meetings 
 ======
 [Members](https://docs.google.com/spreadsheets/d/1AjLDKGMdpbTXK5bkp-BO-iJkS1iQSlScNOB6wQT8nRc/edit?usp=sharing) :
+[252](https://docs.google.com/document/d/1H4cTtHFVP8Xl-SATRrYQ_iXNKLX2WY_KdRsljr-vEFI/edit?tab=t.0)
 [251](https://docs.google.com/document/d/1EsW4Ao1xVWMMhMDEi0rlJfgP_Stotn3OjjFyir2QZ0A/edit?usp=sharing)
 [242](https://docs.google.com/document/d/1E43TMEiYiVuvVg04571IuzTHr8KVieo27xTeAli8PY4/edit?usp=sharing)
 [241](https://docs.google.com/document/d/1zwyVgTlkTmRY_pka3YQB_btVy6Q6mNn_d-qkqeTIv5c/edit?usp=sharing)
