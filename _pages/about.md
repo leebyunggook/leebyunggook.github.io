@@ -218,7 +218,7 @@ Workshops :
 <img src="./../images/tlogo.png" width="156px" height="136px" title="IAI"> 
 </p>
 
-[lbg@dongseo.ac.kr](mailto:lbg@dongseo.ac.kr)
+[lbg@dongseo.ac.kr](mailto:lbg@dongseo.ac.kr)  
 [https://leebyunggook.github.io/](https://leebyunggook.github.io/)  
 [http://kowon.dongseo.ac.kr/~lbg/](http://kowon.dongseo.ac.kr/~lbg/)  
 [Institute of Ambient Intelligence](https://sites.google.com/view/instituteofambientintelligence/home)
