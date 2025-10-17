@@ -65,7 +65,10 @@ Lectures :
 [Computer Vision(MS)](https://drive.google.com/open?id=1sB1zkrUjNu39_mJV-ewqLZBx7sBneBe96yJoPJS1l6Q),  
 [Statistical Learning(MS)](https://docs.google.com/document/d/1-Mk8ICZ-cTzDBHtl2xLuo3tRAFYpiFSyscE4lYNY0f8/edit?usp=sharing), 
 [Natural Language Programming(MS)](https://docs.google.com/document/d/1v-VuDiE1_xePzTqUUiEVHEiV_AgnpWlQcBTYa6g9GsY/edit?usp=sharing), 
+[Processing(SUES)](https://sg.docworkspace.com/d/cIHSvpJlBpLiVxgY?from=dch), 
+[Create Design(SUES)](https://sg.docworkspace.com/d/cICevpJlBwsfIxwY?from=dch)  
 [more...](http://kowon.dongseo.ac.kr/~lbg/lectures.html)
+
 
 youTubes : 
 ======
