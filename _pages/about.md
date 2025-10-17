@@ -12,6 +12,9 @@ Publications
 [Papers](https://docs.google.com/document/d/1ihRK-oNP-g5SIBHA_Enh2znHGlsM39e5hsz3e3ppj-I/edit?usp=sharing)
 [Patients](https://docs.google.com/document/d/1pHbSbh8EVqVQDBB0pSx1TQX1rhOIugo-M6sasNwkkF4/edit?usp=sharing)
 [Projets](https://docs.google.com/document/d/1MbFM6sfD3iKShI7-t78cAjP2K7h8PwUUXBoC-owYhGY/edit?usp=sharing)
+<p align="right" width="100%">
+<img src="./../images/qr_code.png" width="136px" height="136px" title="https://leebyunggook.github.io/"> 
+</p>
 
 IAI Meetings 
 ======
