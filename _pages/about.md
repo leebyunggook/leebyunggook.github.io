@@ -48,6 +48,7 @@ IAI Meetings
 [PhD](https://docs.google.com/document/d/1_9nbYpAUmu9G-Zp4JcdxcnMe8gRk-SNPtYEJMycEQDc/edit?usp=sharing)
 [Design](https://docs.google.com/document/d/1ohsDernlyuAY9qntIrUoTjce6Ket3PN10F0nQx_A2zA/edit?usp=sharing)
 [Under](https://docs.google.com/document/d/1EeCU4CdM0ISBjgiyhNoizvZJj6lLQTx6dOeR1qqH79E/edit?usp=sharing)
+[SUES](https://sg.docworkspace.com/d/cIE-vpJlB9MnIxwY?from=dch)  
 
 Lectures : 
 ======
