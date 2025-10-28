@@ -14,7 +14,7 @@ Education
 * Ph.D. in Applied Mathematics, [KAIST](https://www.kaist.ac.kr/kr/), 1993
 * M.S. in Applied Mathematics, [KAIST](https://www.kaist.ac.kr/kr/), 1989
 * B.S. in Mathematics, [Yonsei Univ.](https://www.yonsei.ac.kr/sc/index.do), 1987
-  
+*   
 
 Work experience
 ======
@@ -23,7 +23,7 @@ Work experience
 * Professor, [Department of Computer Engineering](https://uni.dongseo.ac.kr/computereng/), [Dongseo University](https://www.dongseo.ac.kr/kr/) ('95 ~ )
 * Senior Engineer, Division II Open Systems Lab, [DACOM Corp](https://ko.wikipedia.org/wiki/LG%EB%8D%B0%EC%9D%B4%EC%BD%A4) ('93 ~ '95)
 * Researcher, Computer Center, [Korea Research Institute of Standards and Science](https://www.kriss.re.kr/) ('92 ~ '93)
-  
+*   
 
 Publications
 ======
