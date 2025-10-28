@@ -18,11 +18,11 @@ Education
 
 Work experience
 ======
-* Visiting Professor, School of Multimedia Design, SUES, China ('15 ~ '16)
-* Post-doctoral, Prof. Tom Lyche, Dept. of Informatics, Univ. of Oslo, Norway ('99 ~ '00)
-* Professor, Department of Computer Engineering, Dongseo University ('95 ~ )
+* Visiting Professor, [School of Multimedia Design](https://iicd.sues.edu.cn/EN/main.htm), [SUES](https://www.sues.edu.cn/), China ('15 ~ '16)
+* Post-doctoral, [Prof. Tom Lyche](https://www.mn.uio.no/math/english/people/aca/tom/index%283%29.html), [Dept. of Informatics](https://www.mn.uio.no/english/), [Univ. of Oslo](https://www.uio.no/english/), Norway ('99 ~ '00)
+* Professor, [Department of Computer Engineering](https://uni.dongseo.ac.kr/computereng/), [Dongseo University](https://www.dongseo.ac.kr/kr/) ('95 ~ )
 * Senior Engineer, Division II Open Systems Lab. DACOM Corp. R&D Center ('93 ~ '95)
-* Researcher, Computer Center, Korea Research Institute of Standards and Science ('92 ~ '93)
+* Researcher, Computer Center, [Korea Research Institute of Standards and Science](https://www.kriss.re.kr/) ('92 ~ '93)
   
 
 Publications
