@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Applied Mathematics, KAIST, 1993
-* M.S. in Applied Mathematics, KAIST, 1989
-* B.S. in Mathematics, Yonsei Univ., 1987
+* Ph.D. in Applied Mathematics, [KAIST](https://www.kaist.ac.kr/kr/), 1993
+* M.S. in Applied Mathematics, [KAIST](https://www.kaist.ac.kr/kr/), 1989
+* B.S. in Mathematics, [Yonsei Univ.](https://www.yonsei.ac.kr/sc/index.do), 1987
   
 
 Work experience
