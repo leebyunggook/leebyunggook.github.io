@@ -105,9 +105,9 @@ iArts Workshops :
 ======
 [MMU20](https://docs.google.com/document/d/1DIQ1yYRDjw8Hk3YHA-Z5aGQYpv2FouJ6wkCpWxysAo8/edit?usp=sharing)
 [MMU18](https://docs.google.com/document/d/1cuwvMuK_WvP05z6Cqtsk9OZaZAdTbLaDff7Jx22NWu0/edit?usp=sharing)
-[SUES17](https://drive.google.com/open?id=10foAEKScpxV0RcxJ2QZo8rUK1ilYuf5v8kkn9XjrM7g") 
+[SUES17](https://docs.google.com/document/d/16FB4Jcaj8UmPnJz7tb2KQERJnbZkAXHD/edit?usp=sharing&ouid=102471291278038621280&rtpof=true&sd=true) 
 [MMU17](https://docs.google.com/document/d/1StGAyoRR1p12MKNoto0BxGd5Q0It1PMpDVP8WzRLFrs/edit?usp=sharing") 
-[Korea17](https://docs.google.com/document/d/1vqntqYoxsMli9Ccrbdjfbl6IfrCHc8R4tF8cQMDh3JE/edit?usp=sharing") 
+[Korea17](https://docs.google.com/document/d/1BLjLnDWQ6FxqxsLIT2AgoSj7f8HZVVLB/edit?usp=sharing&ouid=102471291278038621280&rtpof=true&sd=true) 
 [LAFA17](https://docs.google.com/document/d/1TKOrWB9NXCcLHcdzKLcWCPTpnFkiPg9PlUCEgKeInD8/edit?usp=sharing)
 [UTAR17](https://docs.google.com/document/d/1oFjbqwLWMKI9TX18kGb3eBQvhCC7n3E32WYOW8vsIdE/edit?usp=sharing") 
 [MMU16](https://docs.google.com/document/d/1MKgtdiFB9U2PfXJZy8Ck-ex1_CNjMtjLEYOVAy7VCus/edit?usp=sharing) 
