@@ -199,10 +199,10 @@ Workshops :
 [kist](http://kowon.dongseo.ac.kr/~lbg/seminar/kist.html)
 [ftk](http://kowon.dongseo.ac.kr/~lbg/seminar/ftk.html)
 
-[Maritime Computer Vision Workshop@BITS 2024] #(https://sites.google.com/view/wmacv2024bits/home)  
-[Deep Learning for Maritime Workshop@BITS 2025] #(https://sites.google.com/view/wmadl2025bits/home)  
-[XR Metaverse Booster Camp 2021] #(https://sites.google.com/view/xrcontentsboostercamp/):
-[program](https://docs.google.com/document/d/1LV99iFNGA-YPBqyjLhFH2iSDvKovPqhDJvyGw8kCclk/edit)  
+[Maritime Computer Vision Workshop@BITS 2024] <!---(https://sites.google.com/view/wmacv2024bits/home)--->  
+[Deep Learning for Maritime Workshop@BITS 2025] <!---(https://sites.google.com/view/wmadl2025bits/home)--->  
+[XR Metaverse Booster Camp 2021] <!---(https://sites.google.com/view/xrcontentsboostercamp/)--->:
+[program](https://docs.google.com/document/d/1_JzCXTRuCJBDFsg_SuO9gRJkc_NKhkrw/edit?usp=sharing&ouid=102471291278038621280&rtpof=true&sd=true)  
 [MITA2018](https://sites.google.com/view/mita2018/),
 [Organizing Chair](https://photos.app.goo.gl/ZupQHwy2jLuxtxJJ8), SUES, Shanghai, China, June 28~30, 2018  
 [MITA2017](https://sites.google.com/view/mita2017/),
