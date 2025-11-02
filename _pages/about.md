@@ -9,9 +9,9 @@ redirect_from:
 
 Publications
 ======
-[Papers](https://docs.google.com/document/d/1ihRK-oNP-g5SIBHA_Enh2znHGlsM39e5hsz3e3ppj-I/edit?usp=sharing)
-[Patents](https://docs.google.com/document/d/1pHbSbh8EVqVQDBB0pSx1TQX1rhOIugo-M6sasNwkkF4/edit?usp=sharing)
-[Projets](https://docs.google.com/document/d/1MbFM6sfD3iKShI7-t78cAjP2K7h8PwUUXBoC-owYhGY/edit?usp=sharing)
+[Papers](https://docs.google.com/document/d/1ihRK-oNP-g5SIBHA_Enh2znHGlsM39e5hsz3e3ppj-I/edit?usp=sharing){:target="_blank"}
+[Patents](https://docs.google.com/document/d/1pHbSbh8EVqVQDBB0pSx1TQX1rhOIugo-M6sasNwkkF4/edit?usp=sharing){:target="_blank"}
+[Projets](https://docs.google.com/document/d/1MbFM6sfD3iKShI7-t78cAjP2K7h8PwUUXBoC-owYhGY/edit?usp=sharing){:target="_blank"}
 
 IAI Meetings 
 ======
@@ -52,23 +52,23 @@ IAI Meetings
 
 Lectures : 
 ======
-[웹프로그래밍(Web Programming)](https://docs.google.com/document/d/1DIelqz13KJvWNonWlFONPavD1nXrXkX4ZjFuor0YFng/edit?usp=sharing), 
-[컴퓨터그래픽스(Computer Graphics)](https://docs.google.com/document/d/1ws8QLYgxB4Nj_ZnCiqlYsXvPhpzePRtTjaeDrQ2nny8/edit?usp=sharing),  
-[Capstone Design](https://docs.google.com/document/d/1bYFbSYBAbrmrxhRcjVT4JlOUHjFBMOo-tWRMg0uZvP4/edit?usp=sharing), 
-[객체지향프로그램(OOP-Java)](https://drive.google.com/open?id=1Axmj5sCgHwMKalN_4J5sSMNLaU7z30y2y-uXn6oQTjQ), 
-[영상처리(Image Processing)](https://docs.google.com/document/d/1qaZOJ7kA3RFyG-RrI-mh_Tin70rH1cbTu96OaHQRvhA/edit?usp=sharing),  
-[인공지능(AI)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing), 
-[머신러닝(ML)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing), 
-[선박주변상황인지센서기술](https://docs.google.com/document/d/1EcJBqEqrzfczhF4yVvPmwjIGctZFDCpcp3a2fqJnDG4/edit?usp=sharing), 
-[컴퓨터그래픽스(Computer Graphics)](https://drive.google.com/open?id=1DLk2NBAaagQAE4vHliOkZiYeshp8E5P7i_t6xEXPv-s),  
-[Computer Graphics(MS)](https://drive.google.com/open?id=1P5sw_GTeO1074b7VugKLQXGy23JcZ8JiLATaScqNBQE), 
-[Digital Image Processing(MS)](https://docs.google.com/document/d/13uzd5_6CkAahbVXql1GqS1SA3M4ySScNe9Uf3EDgMkk/edit?usp=sharing), 
-[Computer Vision(MS)](https://drive.google.com/open?id=1sB1zkrUjNu39_mJV-ewqLZBx7sBneBe96yJoPJS1l6Q),  
-[Statistical Learning(MS)](https://docs.google.com/document/d/1-Mk8ICZ-cTzDBHtl2xLuo3tRAFYpiFSyscE4lYNY0f8/edit?usp=sharing), 
-[Natural Language Programming(MS)](https://docs.google.com/document/d/1v-VuDiE1_xePzTqUUiEVHEiV_AgnpWlQcBTYa6g9GsY/edit?usp=sharing),  
-[Processing(SUES 2025)](https://sg.docworkspace.com/d/cIHSvpJlBpLiVxgY?from=dch), 
-[Create Design(SUES 2025)](https://sg.docworkspace.com/d/cICevpJlBwsfIxwY?from=dch) 
-[more...](http://kowon.dongseo.ac.kr/~lbg/lectures.html)  
+[웹프로그래밍(Web Programming)](https://docs.google.com/document/d/1DIelqz13KJvWNonWlFONPavD1nXrXkX4ZjFuor0YFng/edit?usp=sharing){:target="_blank"}, 
+[컴퓨터그래픽스(Computer Graphics)](https://docs.google.com/document/d/1ws8QLYgxB4Nj_ZnCiqlYsXvPhpzePRtTjaeDrQ2nny8/edit?usp=sharing){:target="_blank"},  
+[Capstone Design](https://docs.google.com/document/d/1bYFbSYBAbrmrxhRcjVT4JlOUHjFBMOo-tWRMg0uZvP4/edit?usp=sharing){:target="_blank"}, 
+[객체지향프로그램(OOP-Java)](https://drive.google.com/open?id=1Axmj5sCgHwMKalN_4J5sSMNLaU7z30y2y-uXn6oQTjQ){:target="_blank"}, 
+[영상처리(Image Processing)](https://docs.google.com/document/d/1qaZOJ7kA3RFyG-RrI-mh_Tin70rH1cbTu96OaHQRvhA/edit?usp=sharing){:target="_blank"},  
+[인공지능(AI)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing){:target="_blank"}, 
+[머신러닝(ML)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing){:target="_blank"}, 
+[선박주변상황인지센서기술](https://docs.google.com/document/d/1EcJBqEqrzfczhF4yVvPmwjIGctZFDCpcp3a2fqJnDG4/edit?usp=sharing){:target="_blank"}, 
+[컴퓨터그래픽스(Computer Graphics)](https://drive.google.com/open?id=1DLk2NBAaagQAE4vHliOkZiYeshp8E5P7i_t6xEXPv-s){:target="_blank"},  
+[Computer Graphics(MS)](https://drive.google.com/open?id=1P5sw_GTeO1074b7VugKLQXGy23JcZ8JiLATaScqNBQE){:target="_blank"}, 
+[Digital Image Processing(MS)](https://docs.google.com/document/d/13uzd5_6CkAahbVXql1GqS1SA3M4ySScNe9Uf3EDgMkk/edit?usp=sharing){:target="_blank"}, 
+[Computer Vision(MS)](https://drive.google.com/open?id=1sB1zkrUjNu39_mJV-ewqLZBx7sBneBe96yJoPJS1l6Q){:target="_blank"},  
+[Statistical Learning(MS)](https://docs.google.com/document/d/1-Mk8ICZ-cTzDBHtl2xLuo3tRAFYpiFSyscE4lYNY0f8/edit?usp=sharing){:target="_blank"}, 
+[Natural Language Programming(MS)](https://docs.google.com/document/d/1v-VuDiE1_xePzTqUUiEVHEiV_AgnpWlQcBTYa6g9GsY/edit?usp=sharing){:target="_blank"},  
+[Processing(SUES 2025)](https://sg.docworkspace.com/d/cIHSvpJlBpLiVxgY?from=dch){:target="_blank"}, 
+[Create Design(SUES 2025)](https://sg.docworkspace.com/d/cICevpJlBwsfIxwY?from=dch){:target="_blank"} 
+[more...](http://kowon.dongseo.ac.kr/~lbg/lectures.html){:target="_blank"}  
 
 
 youTubes : 
@@ -112,7 +112,7 @@ iArts Workshops :
 [UTAR17](https://docs.google.com/document/d/1oFjbqwLWMKI9TX18kGb3eBQvhCC7n3E32WYOW8vsIdE/edit?usp=sharing") 
 [MMU16](https://docs.google.com/document/d/1MKgtdiFB9U2PfXJZy8Ck-ex1_CNjMtjLEYOVAy7VCus/edit?usp=sharing) 
 [MMU15](https://docs.google.com/document/d/1jh8uVB-_BiuXjNCrOUNkXZOTSlNAUcrhbfLkiEUIXB8/edit?usp=sharing) 
-[Ciputra15](https://docs.google.com/document/d/1_-fr_59ibMk3cYkOeFhnR-HZS1Tr9bTz-Y9nveApVGc/edit?usp=sharing)
+[Ciputra15](https://docs.google.com/document/d/1_-fr_59ibMk3cYkOeFhnR-HZS1Tr9bTz-Y9nveApVGc/edit?usp=sharing)  
 [MMU15](https://docs.google.com/document/d/1a8kZoDGI69jRhpHavPRd9nN0dCg9brjpB6Q38dV7HLQ/edit?usp=sharing")
 [UTAR15](https://docs.google.com/document/d/1CglgNMwFAE9eJDWt667CC0saD_dVw3C8pbDmoaCoV8k/edit?usp=sharing")
 [LAFA14](https://docs.google.com/document/d/11TnKxK6UBFt025_vhcHmfLfld6JCRsJGthnGQkLv0a4/edit?usp=sharing)
