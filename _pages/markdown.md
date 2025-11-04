@@ -9,7 +9,7 @@ redirect_from:
 
 ## CreateDesign SUES2025
 
-* [CreativeDesign.doc](http://kowon.dongseo.ac.kr/~lbg/ftp/CreativeDesign.doc)
+* [CreativeDesign.doc](http://kowon.dongseo.ac.kr/~lbg/ftp/CreativeDesign.docx)
 * [_GenAI_FineTuning.pptx](http://kowon.dongseo.ac.kr/~lbg/ftp/_GenAI_FineTuning.pptx)
 * [Tutorial_EDIT.pdf](http://kowon.dongseo.ac.kr/~lbg/ftp/Tutorial_EDIT.pdf)
 * [www.python.org](https://www.python.org/)
