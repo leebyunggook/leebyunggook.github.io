@@ -14,7 +14,7 @@ redirect_from:
 * [Tutorial_EDIT.pdf](http://kowon.dongseo.ac.kr/~lbg/ftp/Tutorial_EDIT.pdf)
 * [www.python.org](https://www.python.org/)
 * [code.visualstudio.com](https://code.visualstudio.com/)
-* [Anaconda](https://www.anaconda.com/)
+* [Anaconda](https://www.anaconda.com/)  
 conda update conda  
 conda create -n CD2025 python=3.8 anaconda  
 conda activate CD2025  
