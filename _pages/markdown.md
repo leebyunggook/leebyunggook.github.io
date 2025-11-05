@@ -7,22 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-## CreateDesign SUES2025
-
-* [CreativeDesign](./../files/CreativeDesign.pdf)
-* [_GenAI_FineTuning](./../files/GenAIFineTuning.pdf)
-* [Tutorial_EDIT](./../files/Tutorial_EDIT.pdf)
-* [www.python.org](https://www.python.org/)
-* [code.visualstudio.com](https://code.visualstudio.com/)
-* [Anaconda](https://www.anaconda.com/)  
-conda update conda  
-conda create -n CD2025 python=3.8 anaconda  
-conda activate CD2025  
-pip install --upgrade pip  
-pip install opencv-python  
-pip install matplotlib  
-
-
 ## Projects
 
 * RS-2023-00236928 개인정보보호위원회 한국인터넷진흥원 개인정보기술표준개발지원(R&D) Standardardization of Personal Information Security Requirements for Metaverse Environments 메타버스 환경에서 개인정보보호 요구사항 표준, 2023.04.01~2025.12.31
