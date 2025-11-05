@@ -8,10 +8,9 @@ date: 2025-11-10
 location: "Shanghai, China"
 ---
 
-* [Attendance Registration](https://f.kdocs.cn/g/y6LVPOIn/)  
+* [Attendance Registration](https://f.kdocs.cn/g/BBYwdXqo/)  
 * [Processing](https://www.kdocs.cn/l/caMzTnoPE2Cr) [(pdf)](./../files/Processing.pdf)  
 * [www.processing.org](https://www.processing.org/)  
 * [learningprocessing](http://learningprocessing.com/)  
 * [openprocessing](https://openprocessing.org/)  
 
-  
