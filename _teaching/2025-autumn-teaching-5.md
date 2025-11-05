@@ -9,7 +9,7 @@ location: "Shanghai, China"
 ---
 
 * [Attendance Registration](https://f.kdocs.cn/g/y6LVPOIn/)  
-* [CreativeDesign](./../files/CreativeDesign.pdf)  
+* [CreativeDesign](https://www.kdocs.cn/l/cdeZaLnArKTH)[pdf](./../files/CreativeDesign.pdf)    
 * [GenAI_FineTuning](./../files/GenAIFineTuning.pdf)
 * [Tutorial_EDIT](./../files/Tutorial_EDIT.pdf)
 * [www.python.org](https://www.python.org/)
