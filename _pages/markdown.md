@@ -10,7 +10,7 @@ redirect_from:
 ## CreateDesign SUES2025
 
 * [CreativeDesign](./../files/CreativeDesign.pdf)
-* [_GenAI_FineTuning](./../files/_GenAI_FineTuning.pdf)
+* [_GenAI_FineTuning](./../files/GenAIFineTuning.pdf)
 * [Tutorial_EDIT](./../files/Tutorial_EDIT.pdf)
 * [www.python.org](https://www.python.org/)
 * [code.visualstudio.com](https://code.visualstudio.com/)
