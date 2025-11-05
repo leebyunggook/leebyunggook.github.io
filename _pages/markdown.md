@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 ## CreateDesign SUES2025
-<img src="./../images/iai.png" width="224px" height="136px" title="IAI">
 
-* [CreativeDesign.doc](./../files/CreativeDesign.pdf)
-* [_GenAI_FineTuning.pptx](./../files/_GenAI_FineTuning.pdf)
-* [Tutorial_EDIT.pdf](./../files/Tutorial_EDIT.pdf)
+* [CreativeDesign](./../files/CreativeDesign.pdf)
+* [_GenAI_FineTuning](./../files/_GenAI_FineTuning.pdf)
+* [Tutorial_EDIT](./../files/Tutorial_EDIT.pdf)
 * [www.python.org](https://www.python.org/)
 * [code.visualstudio.com](https://code.visualstudio.com/)
 * [Anaconda](https://www.anaconda.com/)  
