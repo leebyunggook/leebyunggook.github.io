@@ -1,15 +1,15 @@
 ---
 title: "Creative Design SUES2025"
 collection: teaching
-type: "SUES"
+type: "undergraduate"
 permalink: /teaching/2025-autumn-teaching-5
-venue: "Department of Computer Engineering, Dongseo University"
+venue: "International Institute of Creative Design (IICD), SUES"
 date: 2025-11-04
 location: "Shanghai, China"
 ---
 
 * [CreativeDesign](./../files/CreativeDesign.pdf)
-* [_GenAI_FineTuning](./../files/_GenAI_FineTuning.pdf)
+* [_GenAI_FineTuning](./../files/GenAIFineTuning.pdf)
 * [Tutorial_EDIT](./../files/Tutorial_EDIT.pdf)
 * [www.python.org](https://www.python.org/)
 * [code.visualstudio.com](https://code.visualstudio.com/)
