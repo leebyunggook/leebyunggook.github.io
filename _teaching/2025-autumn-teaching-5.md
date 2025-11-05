@@ -8,7 +8,8 @@ date: 2025-11-04
 location: "Shanghai, China"
 ---
 
-* [CreativeDesign](./../files/CreativeDesign.pdf)
+* [Attendance Registration](https://f.kdocs.cn/g/y6LVPOIn/)  
+* [CreativeDesign](./../files/CreativeDesign.pdf)  
 * [GenAI_FineTuning](./../files/GenAIFineTuning.pdf)
 * [Tutorial_EDIT](./../files/Tutorial_EDIT.pdf)
 * [www.python.org](https://www.python.org/)
