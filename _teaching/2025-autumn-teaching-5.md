@@ -14,6 +14,7 @@ location: "Shanghai, China"
 * [www.python.org](https://www.python.org/)
 * [code.visualstudio.com](https://code.visualstudio.com/)
 * [Anaconda](https://www.anaconda.com/)  
+  
 conda update conda  
 conda create -n CD2025 python=3.8 anaconda  
 conda activate CD2025  
