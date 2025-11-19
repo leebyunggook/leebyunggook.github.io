@@ -20,7 +20,8 @@ location: "Shanghai, China"
 * [MediaPipe](./../files/MediaPipe.pdf) [(zip)](./../files/MediaPipe.zip)
 * [w3schools python](https://www.w3schools.com/python/default.asp)
 * [w3schools python quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON)
-* Exam 17:00~ 17:55 @ Nov. 26 2025 (Tutorial_EDIT p.9~45, w3schools python quiz) 
+* Exam 17:00~ 17:55 @ Nov. 26 2025 (Tutorial_EDIT p.9~45, w3schools python quiz)
+* [academicpages.github.io](https://academicpages.github.io/)
   
 conda update conda  
 conda create -n CD2025 python=3.8 anaconda  
