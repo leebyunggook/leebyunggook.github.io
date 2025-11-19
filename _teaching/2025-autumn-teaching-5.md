@@ -23,12 +23,11 @@ location: "Shanghai, China"
 * Exam 17:00~ 17:55 @ Nov. 26 2025 (Tutorial_EDIT p.9~45, w3schools python quiz)
 * [academicpages.github.io](https://academicpages.github.io/)
   
-
-Anaconda Powershell Prompt with Administrator Mode
+Anaconda Powershell Prompt with Administrator Mode  
 conda update conda  
 conda create -n MP2025 python=3.8 anaconda  
 conda activate MP2025  
-pip install --upgrade pip  
+pip install ---upgrade pip  
 pip install opencv-python  
 pip install matplotlib  
 pip install mediapipe  
