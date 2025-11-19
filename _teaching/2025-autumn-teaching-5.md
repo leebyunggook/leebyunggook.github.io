@@ -17,6 +17,7 @@ location: "Shanghai, China"
 * [Anaconda](https://www.anaconda.com/)
 * [Homework1 Registration(title='Homework1')](https://f.kdocs.cn/g/x8yRALXv/)
 * [GitHub Registration(title='GitHub')](https://f.kdocs.cn/g/x8yRALXv/)
+* [MediaPipe](./../files/MediaPipe.pdf) [(zip)](./../files/MediaPipe.zip)
 * [w3schools python](https://www.w3schools.com/python/default.asp)
 * [w3schools python quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON)
 * Exam 17:00~ 17:55 @ Nov. 26 2025  
