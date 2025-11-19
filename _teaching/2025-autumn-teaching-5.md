@@ -16,6 +16,9 @@ location: "Shanghai, China"
 * [code.visualstudio.com](https://code.visualstudio.com/)
 * [Anaconda](https://www.anaconda.com/)
 * [Homework1 Registration(title='Homework1')](https://f.kdocs.cn/g/x8yRALXv/)
+* [w3schools python](https://www.w3schools.com/python/default.asp)
+* [w3schools python quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON)
+* Exam 17:00~ 17:55 @ Nov. 26 2025  
   
 conda update conda  
 conda create -n CD2025 python=3.8 anaconda  
@@ -23,3 +26,5 @@ conda activate CD2025
 pip install --upgrade pip  
 pip install opencv-python  
 pip install matplotlib  
+pip install mediapipe
+pip install imutils
