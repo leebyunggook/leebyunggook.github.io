@@ -28,5 +28,5 @@ conda activate CD2025
 pip install --upgrade pip  
 pip install opencv-python  
 pip install matplotlib  
-pip install mediapipe
+pip install mediapipe  
 pip install imutils
