@@ -16,7 +16,7 @@ location: "Shanghai, China"
 * [code.visualstudio.com](https://code.visualstudio.com/)
 * [Anaconda](https://www.anaconda.com/)
 * [Homework1 Registration(title='Homework1')](https://f.kdocs.cn/g/x8yRALXv/)
-* [GitHub Registration(title='GitHub')](https://f.kdocs.cn/g/x8yRALXv/)
+* [GitHub Registration(title='GitHub')](https://f.kdocs.cn/g/x8yRALXv/) -- canceled 2025.11.25
 * [MediaPipe](./../files/MediaPipe.pdf) [(zip)](./../files/MediaPipe.zip)
 * [w3schools python](https://www.w3schools.com/python/default.asp)
 * [w3schools python quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON)
