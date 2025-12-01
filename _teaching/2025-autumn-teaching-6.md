@@ -9,8 +9,8 @@ location: "Shanghai, China"
 ---
 
 * [Attendance Registration](https://f.kdocs.cn/g/BBYwdXqo/)  
-* [Processing](https://www.kdocs.cn/l/caMzTnoPE2Cr) [(pdf)](./../files/Processing.pdf)  
 * [www.processing.org](https://www.processing.org/)  
+* [Lecture Notes](https://www.kdocs.cn/l/caMzTnoPE2Cr) [(pdf)](./../files/Processing.pdf)  
 * [learningprocessing](http://learningprocessing.com/) [(pdf)](https://dl.icdst.org/pdfs/files/2aa832587eb6cdf9f2904afbf850eb45.pdf)  
 * [openprocessing](https://openprocessing.org/)  
 * [openprocessing URL Registration(title='openprocessing')](https://f.kdocs.cn/g/3UrLLaGU/)
