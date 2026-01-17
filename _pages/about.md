@@ -61,7 +61,7 @@ Lectures :
 [Python Programming](https://docs.google.com/document/d/1Ypk-sW-FxhVGDGTpUhpIVr9bKn-Xrf2d6DIp7hI-pFA/edit?usp=sharing){:target="_blank"}, 
 [인공지능(AI)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing){:target="_blank"}, 
 [머신러닝(ML)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing){:target="_blank"}, 
-[선박주변상황인지센서기술](https://docs.google.com/document/d/1EcJBqEqrzfczhF4yVvPmwjIGctZFDCpcp3a2fqJnDG4/edit?usp=sharing){:target="_blank"}, 
+[선박주변상황인지센서기술](https://docs.google.com/document/d/1EcJBqEqrzfczhF4yVvPmwjIGctZFDCpcp3a2fqJnDG4/edit?usp=sharing){:target="_blank"},  
 [Computer Graphics(MS)](https://drive.google.com/open?id=1P5sw_GTeO1074b7VugKLQXGy23JcZ8JiLATaScqNBQE){:target="_blank"}, 
 [Digital Image Processing(MS)](https://docs.google.com/document/d/13uzd5_6CkAahbVXql1GqS1SA3M4ySScNe9Uf3EDgMkk/edit?usp=sharing){:target="_blank"}, 
 [Computer Vision(MS)](https://drive.google.com/open?id=1sB1zkrUjNu39_mJV-ewqLZBx7sBneBe96yJoPJS1l6Q){:target="_blank"},  
