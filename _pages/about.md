@@ -56,8 +56,7 @@ Lectures :
 [영상처리(Image Processing)](https://docs.google.com/document/d/1qaZOJ7kA3RFyG-RrI-mh_Tin70rH1cbTu96OaHQRvhA/edit?usp=sharing){:target="_blank"},  
 [객체지향프로그램(OOP-Java)](https://drive.google.com/open?id=1Axmj5sCgHwMKalN_4J5sSMNLaU7z30y2y-uXn6oQTjQ){:target="_blank"}, 
 [컴퓨터그래픽스(Computer Graphics: ](https://docs.google.com/document/d/1ws8QLYgxB4Nj_ZnCiqlYsXvPhpzePRtTjaeDrQ2nny8/edit?usp=sharing){:target="_blank"}, 
-[OpenGL)](https://drive.google.com/open?id=1DLk2NBAaagQAE4vHliOkZiYeshp8E5P7i_t6xEXPv-s){:target="_blank"}, 
-[Capstone Design](https://docs.google.com/document/d/1bYFbSYBAbrmrxhRcjVT4JlOUHjFBMOo-tWRMg0uZvP4/edit?usp=sharing){:target="_blank"},  
+[OpenGL)](https://drive.google.com/open?id=1DLk2NBAaagQAE4vHliOkZiYeshp8E5P7i_t6xEXPv-s){:target="_blank"},  
 [Python Programming](https://docs.google.com/document/d/1Ypk-sW-FxhVGDGTpUhpIVr9bKn-Xrf2d6DIp7hI-pFA/edit?usp=sharing){:target="_blank"}, 
 [인공지능(AI)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing){:target="_blank"}, 
 [머신러닝(ML)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing){:target="_blank"}, 
@@ -68,9 +67,9 @@ Lectures :
 [Statistical Learning(MS)](https://docs.google.com/document/d/1-Mk8ICZ-cTzDBHtl2xLuo3tRAFYpiFSyscE4lYNY0f8/edit?usp=sharing){:target="_blank"}, 
 [Natural Language Programming(MS)](https://docs.google.com/document/d/1v-VuDiE1_xePzTqUUiEVHEiV_AgnpWlQcBTYa6g9GsY/edit?usp=sharing){:target="_blank"},  
 [Processing(SUES 2025)](https://sg.docworkspace.com/d/cIHSvpJlBpLiVxgY?from=dch){:target="_blank"}, 
-[Create Design(SUES 2025)](https://sg.docworkspace.com/d/cICevpJlBwsfIxwY?from=dch){:target="_blank"} 
-[more...](http://kowon.dongseo.ac.kr/~lbg/lectures.html){:target="_blank"}  
-
+[Create Design(SUES 2025)](https://sg.docworkspace.com/d/cICevpJlBwsfIxwY?from=dch){:target="_blank"},   
+[Capstone Design](https://docs.google.com/document/d/1bYFbSYBAbrmrxhRcjVT4JlOUHjFBMOo-tWRMg0uZvP4/edit?usp=sharing){:target="_blank"}, 
+[more...](http://kowon.dongseo.ac.kr/~lbg/lectures.html){:target="_blank"}    
 
 youTubes : 
 ======
