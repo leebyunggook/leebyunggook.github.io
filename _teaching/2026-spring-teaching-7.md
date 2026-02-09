@@ -8,4 +8,4 @@ date: 2026-03-02
 location: "Busan City, Korea"
 ---
 
-* [Lecture Note](https://docs.google.com/document/d/1Ypk-sW-FxhVGDGTpUhpIVr9bKn-Xrf2d6DIp7hI-pFA/edit?tab=t.0)
+* [Lecture Notes](https://docs.google.com/document/d/1Ypk-sW-FxhVGDGTpUhpIVr9bKn-Xrf2d6DIp7hI-pFA/edit?tab=t.0)
