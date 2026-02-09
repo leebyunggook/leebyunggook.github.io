@@ -7,6 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
+* Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.
+* https://github.com/academicpages/academicpages.github.io
+
 ## Projects
 
 * RS-2023-00236928 개인정보보호위원회 한국인터넷진흥원 개인정보기술표준개발지원(R&D) Standardardization of Personal Information Security Requirements for Metaverse Environments 메타버스 환경에서 개인정보보호 요구사항 표준, 2023.04.01~2025.12.31
