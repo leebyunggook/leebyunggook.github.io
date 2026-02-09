@@ -8,13 +8,7 @@ date: 2026-03-02
 location: "Busan City, Korea"
 ---
 
-[Lecture Note](https://docs.google.com/document/d/1Ypk-sW-FxhVGDGTpUhpIVr9bKn-Xrf2d6DIp7hI-pFA/edit?usp=sharing)
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* [openprocessing](https://openprocessing.org/)  
+* [openprocessing URL Registration(title='openprocessing')](https://f.kdocs.cn/g/3UrLLaGU/)
+* Homework1 - draw a simple symbol with processing
+* Homework2 - draw a simple pattern with processing
