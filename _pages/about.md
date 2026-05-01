@@ -66,6 +66,7 @@ Lectures :
 [Computer Vision(MS)](https://drive.google.com/open?id=1sB1zkrUjNu39_mJV-ewqLZBx7sBneBe96yJoPJS1l6Q){:target="_blank"},  
 [Statistical Learning(MS)](https://docs.google.com/document/d/1-Mk8ICZ-cTzDBHtl2xLuo3tRAFYpiFSyscE4lYNY0f8/edit?usp=sharing){:target="_blank"}, 
 [Natural Language Programming(MS)](https://docs.google.com/document/d/1v-VuDiE1_xePzTqUUiEVHEiV_AgnpWlQcBTYa6g9GsY/edit?usp=sharing){:target="_blank"},  
+[PhysicsProcessing(SUES 2026)](./PhysicsProcessing.md){:target="_blank"}, 
 [Processing(SUES 2025)](https://sg.docworkspace.com/d/cIHSvpJlBpLiVxgY?from=dch){:target="_blank"}, 
 [Create Design(SUES 2025)](https://sg.docworkspace.com/d/cICevpJlBwsfIxwY?from=dch){:target="_blank"},   
 [Capstone Design](https://docs.google.com/document/d/1bYFbSYBAbrmrxhRcjVT4JlOUHjFBMOo-tWRMg0uZvP4/edit?usp=sharing){:target="_blank"}, 
