@@ -148,7 +148,6 @@ The Nature of Code : Simulating Natural Systems with Processing(pdf) <br>
 
 [http://www.creativeapplications.net/processing/](http://www.creativeapplications.net/processing/)[kinect-physics-tutorial-for-processing/](kinect-physics-tutorial-for-processing/) <br>
 [https://www.youtube.com/watch?v=W8bukirivpU](https://www.youtube.com/watch?v=W8bukirivpU) CAN Kinect Physics Tutorial <br>
-[https://www.youtube.com/watch?v=OBERYT1qVv0](https://www.youtube.com/watch?v=OBERYT1qVv0) <br>
 
 ### LiquidFunProcessing
 LiquidFun is based on Erin Catto's Box2D library, which provides 2D, rigid-body simulation in games. LiquidFun extends Box2D to provide particle physics and fluid dynamics. <br>
