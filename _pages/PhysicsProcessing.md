@@ -21,15 +21,13 @@
 - [https://openprocessing.org/browse?q=game&time=anytime&type=tags&offset=0#](https://openprocessing.org/browse?q=game&time=anytime&type=tags&offset=0#) 
 - [Learning Processing](http://learningprocessing.com/), Daniel Shiffman. August 2008, Morgan Kaufmann.
 
-[https://code.visualstudio.com/download](https://code.visualstudio.com/download)
-
 ### chap 8. Objects
 
 object-oriented programming (OOP) works in Processing <br>
 [https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/) <br>
 [https://processing.org/reference/class.html](https://processing.org/reference/class.html) <br>
 
-MovingMark
+MovingMark <br>
 [https://openprocessing.org/sketch/877246](https://openprocessing.org/sketch/877246)
 <pre><code>
 fullScreen();
@@ -81,25 +79,25 @@ void mousePressed() {
 </code></pre>
 
 ### chap 13. Mathematics
-flowers mountains faces tree 
-[https://processing.org/examples/tree.html](https://processing.org/examples/tree.html)
-[https://www.openprocessing.org/curation/19/](https://www.openprocessing.org/curation/19/)
-[https://openprocessing.org/sketch/90192](https://openprocessing.org/sketch/90192) 
-[https://natureofcode.com/book/chapter-8-fractals/](https://natureofcode.com/book/chapter-8-fractals/)
+flowers mountains faces tree <br>
+[https://processing.org/examples/tree.html](https://processing.org/examples/tree.html) <br>
+[https://www.openprocessing.org/curation/19/](https://www.openprocessing.org/curation/19/) <br>
+[https://openprocessing.org/sketch/90192](https://openprocessing.org/sketch/90192) <br> 
+[https://natureofcode.com/book/chapter-8-fractals/](https://natureofcode.com/book/chapter-8-fractals/) <br>
 
-[https://www.renderforest.com/music-visualizer.html](https://www.renderforest.com/music-visualizer.html)
-[https://www.youtube.com/watch?v=BVhnmm1SvF0](https://www.youtube.com/watch?v=BVhnmm1SvF0)
-[http://www.rayban.vision/#projects/beat-detection](http://www.rayban.vision/#projects/beat-detection)
+[https://www.renderforest.com/music-visualizer.html](https://www.renderforest.com/music-visualizer.html) <br>
+[https://www.youtube.com/watch?v=BVhnmm1SvF0](https://www.youtube.com/watch?v=BVhnmm1SvF0) <br>
+[http://www.rayban.vision/#projects/beat-detection](http://www.rayban.vision/#projects/beat-detection) <br>
 
-ParticleSystemSmoke
-[https://processing.org/examples/smokeparticlesystem.html](https://processing.org/examples/smokeparticlesystem.html)
+ParticleSystemSmoke <br>
+[https://processing.org/examples/smokeparticlesystem.html](https://processing.org/examples/smokeparticlesystem.html) <br>
 
-RainDrop Behavior
-[http://learningprocessing.com/examples/chp10/](http://learningprocessing.com/examples/chp10/) example-10-06-raindrop-behavior
+RainDrop Behavior <br>
+[http://learningprocessing.com/examples/chp10/](http://learningprocessing.com/examples/chp10/) example-10-06-raindrop-behavior <br>
 
 ### chap 14. Transformations and 3D 
-transformation 
-[https://processing.org/tutorials/p3d/](https://processing.org/tutorials/p3d/)
+transformation <br>
+[https://processing.org/tutorials/p3d/](https://processing.org/tutorials/p3d/) 
 <pre><code>
 rotateX(tx);
 rotateY(ty);
@@ -109,7 +107,7 @@ void mouseDragged() {
 }
 </code></pre>
 
-The Nature of Code : Simulating Natural Systems with Processing(pdf)
+The Nature of Code : Simulating Natural Systems with Processing(pdf) <br>
 [https://github.com/shiffman/Box2D-for-Processing](https://github.com/shiffman/Box2D-for-Processing) 
 
 ### chap 1. Vectors
@@ -143,66 +141,67 @@ The Nature of Code : Simulating Natural Systems with Processing(pdf)
 [https://natureofcode.com/neural-networks/](https://natureofcode.com/neural-networks/) 
 
 ### Box2D 
-[http://box2d.org/](http://box2d.org/)
-[http://processingjs.org/](http://processingjs.org/)
-[http://box2d-js.sourceforge.net/](http://box2d-js.sourceforge.net/)
-[http://www.mrdoob.com/projects/chromeexperiments/google-gravity/](http://www.mrdoob.com/projects/chromeexperiments/google-gravity/)
-[http://kowon.dongseo.ac.kr/~lbg/web_lecture/pbox2d/PBox2D.pptx](http://kowon.dongseo.ac.kr/~lbg/web_lecture/pbox2d/PBox2D.pptx)
+[http://box2d.org/](http://box2d.org/) <br>
+[http://processingjs.org/](http://processingjs.org/) <br>
+[http://box2d-js.sourceforge.net/](http://box2d-js.sourceforge.net/) <br>
+[http://www.mrdoob.com/projects/chromeexperiments/google-gravity/](http://www.mrdoob.com/projects/chromeexperiments/google-gravity/) <br>
+[http://kowon.dongseo.ac.kr/~lbg/web_lecture/pbox2d/PBox2D.pptx](http://kowon.dongseo.ac.kr/~lbg/web_lecture/pbox2d/PBox2D.pptx) <br>
 
-[http://www.creativeapplications.net/processing/](http://www.creativeapplications.net/processing/)[kinect-physics-tutorial-for-processing/](kinect-physics-tutorial-for-processing/)
-[https://www.youtube.com/watch?v=W8bukirivpU](https://www.youtube.com/watch?v=W8bukirivpU)
-[https://www.youtube.com/watch?v=OBERYT1qVv0](https://www.youtube.com/watch?v=OBERYT1qVv0)
+[http://www.creativeapplications.net/processing/](http://www.creativeapplications.net/processing/)[kinect-physics-tutorial-for-processing/](kinect-physics-tutorial-for-processing/) <br>
+[https://www.youtube.com/watch?v=W8bukirivpU](https://www.youtube.com/watch?v=W8bukirivpU) <br>
+[https://www.youtube.com/watch?v=OBERYT1qVv0](https://www.youtube.com/watch?v=OBERYT1qVv0) <br>
 
 ### LiquidFunProcessing
-LiquidFun is based on Erin Catto's Box2D library, which provides 2D, rigid-body simulation in games. LiquidFun extends Box2D to provide particle physics and fluid dynamics.
-[https://github.com/diwi/LiquidFunProcessing](https://github.com/diwi/LiquidFunProcessing)
-[https://google.github.io/liquidfun/Programmers-Guide/html/index.html](https://google.github.io/liquidfun/Programmers-Guide/html/index.html)
+LiquidFun is based on Erin Catto's Box2D library, which provides 2D, rigid-body simulation in games. LiquidFun extends Box2D to provide particle physics and fluid dynamics. <br>
+[https://github.com/diwi/LiquidFunProcessing](https://github.com/diwi/LiquidFunProcessing) <br>
+[https://google.github.io/liquidfun/Programmers-Guide/html/index.html](https://google.github.io/liquidfun/Programmers-Guide/html/index.html) <br>
 
-PixelFlow
-A Processing/Java library for high performance GPU-Computing (GLSL). Fluid Simulation + SoftBody Dynamics + Optical Flow + Rendering + Image Processing + Particle Systems + Physics +...
-[https://diwi.github.io/PixelFlow/](https://diwi.github.io/PixelFlow/)
-[https://vimeo.com/diwi](https://vimeo.com/diwi) 
+PixelFlow <br>
+A Processing/Java library for high performance GPU-Computing (GLSL). Fluid Simulation + SoftBody Dynamics + Optical Flow + Rendering + Image Processing + Particle Systems + Physics +... <br>
+[https://diwi.github.io/PixelFlow/](https://diwi.github.io/PixelFlow/) <br>
+[https://vimeo.com/diwi](https://vimeo.com/diwi)  <br>
 
-PixelFlow_Presentation.pptx
-GLSL_Shader_Presentation.pptx
-fluid_simulation_v2.pptx
+PixelFlow_Presentation.pptx <br>
+GLSL_Shader_Presentation.pptx <br>
+fluid_simulation_v2.pptx <br>
 
-[https://www.youtube.com/watch?v=rSKMYc1CQHE](https://www.youtube.com/watch?v=rSKMYc1CQHE)
-[https://www.youtube.com/watch?v=kOkfC5fLfgE](https://www.youtube.com/watch?v=kOkfC5fLfgE)
+[https://www.youtube.com/watch?v=rSKMYc1CQHE](https://www.youtube.com/watch?v=rSKMYc1CQHE) <br>
+[https://www.youtube.com/watch?v=kOkfC5fLfgE](https://www.youtube.com/watch?v=kOkfC5fLfgE) <br>
 
-Zach Kobrinsky
-[https://zachariahkobrinsky.com/nature-of-code/](https://zachariahkobrinsky.com/nature-of-code/)
+Zach Kobrinsky <br>
+[https://zachariahkobrinsky.com/nature-of-code/](https://zachariahkobrinsky.com/nature-of-code/) <br>
 
-python -m http.server 8000
-[http://localhost:8000/](http://localhost:8000/)
+python -m http.server 8000 <br>
+[http://localhost:8000/](http://localhost:8000/) <br>
 
-[https://openprocessing.org/sketch/2833263](https://openprocessing.org/sketch/2833263) p5 shapekey animal by mathfoxLab 
-[https://github.khronos.org/glTF-Sample-Viewer-Release/](https://github.khronos.org/glTF-Sample-Viewer-Release/)
-[https://gltf-viewer.donmccurdy.com/](https://gltf-viewer.donmccurdy.com/)
+[https://openprocessing.org/sketch/2833263](https://openprocessing.org/sketch/2833263) p5 shapekey animal by mathfoxLab  <br>
+[https://github.khronos.org/glTF-Sample-Viewer-Release/](https://github.khronos.org/glTF-Sample-Viewer-Release/) <br>
+[https://gltf-viewer.donmccurdy.com/](https://gltf-viewer.donmccurdy.com/) <br>
 
-[https://openprocessing.org/sketch/2211319](https://openprocessing.org/sketch/2211319) Genuary 2024 - Day 15 - Physics Library 
-[https://openprocessing.org/sketch/2144603](https://openprocessing.org/sketch/2144603) The Crowded Paradise 
-[https://openprocessing.org/sketch/2120361](https://openprocessing.org/sketch/2120361) Stacks of Joy 1 
+[https://openprocessing.org/sketch/2211319](https://openprocessing.org/sketch/2211319) Genuary 2024 - Day 15 - Physics Library  <br>
+[https://openprocessing.org/sketch/2144603](https://openprocessing.org/sketch/2144603) The Crowded Paradise  <br>
+[https://openprocessing.org/sketch/2120361](https://openprocessing.org/sketch/2120361) Stacks of Joy 1  <br>
 
-[https://openprocessing.org/sketch/179401/](https://openprocessing.org/sketch/179401/) Blue Mountains by Bárbara Almeida
-[https://openprocessing.org/sketch/1203902](https://openprocessing.org/sketch/1203902) Stone Space2 by Shozo KUZE 
-[https://openprocessing.org/sketch/2881122](https://openprocessing.org/sketch/2881122) Bauklötze "Construction" by epibyte
-[https://openprocessing.org/sketch/2861026](https://openprocessing.org/sketch/2861026) Islands by Naoki Tsutae
-[https://openprocessing.org/sketch/2838363](https://openprocessing.org/sketch/2838363) Fluvia by eanutt1272.v2
-[https://openprocessing.org/sketch/2878607](https://openprocessing.org/sketch/2878607) p5.webgpu.js claw by Alwayscodingsomething
-[https://openprocessing.org/sketch/2837844](https://openprocessing.org/sketch/2837844) genuary genuary2026 genuary5 by KaitoFMS 
-[https://openprocessing.org/sketch/2878574](https://openprocessing.org/sketch/2878574) Procedural Construct by Kazoops
-[https://openprocessing.org/sketch/1632092](https://openprocessing.org/sketch/1632092) Kandinsky's Circles  by Metamere
-[https://openprocessing.org/sketch/2654309](https://openprocessing.org/sketch/2654309) v6 Puppet by Rajeev Raizada 
-[https://openprocessing.org/sketch/2537651](https://openprocessing.org/sketch/2537651) FaceMesh test by Rajeev Raizada 
-[https://openprocessing.org/sketch/2066195](https://openprocessing.org/sketch/2066195) MediaPipe-FaceMetrics-2025 
-[https://openprocessing.org/sketch/2469730](https://openprocessing.org/sketch/2469730) Hand Tracking Mediapipe 
-[https://openprocessing.org/sketch/2902965](https://openprocessing.org/sketch/2902965) mediaPipeMoshMirror 
+[https://openprocessing.org/sketch/179401/](https://openprocessing.org/sketch/179401/) Blue Mountains by Bárbara Almeida <br>
+[https://openprocessing.org/sketch/1203902](https://openprocessing.org/sketch/1203902) Stone Space2 by Shozo KUZE  <br>
+[https://openprocessing.org/sketch/2881122](https://openprocessing.org/sketch/2881122) Bauklötze "Construction" by epibyte <br>
+[https://openprocessing.org/sketch/2861026](https://openprocessing.org/sketch/2861026) Islands by Naoki Tsutae <br>
+[https://openprocessing.org/sketch/2838363](https://openprocessing.org/sketch/2838363) Fluvia by eanutt1272.v2 <br>
+[https://openprocessing.org/sketch/2878607](https://openprocessing.org/sketch/2878607) p5.webgpu.js claw by Alwayscodingsomething <br>
+[https://openprocessing.org/sketch/2837844](https://openprocessing.org/sketch/2837844) genuary genuary2026 genuary5 by KaitoFMS  <br>
+[https://openprocessing.org/sketch/2878574](https://openprocessing.org/sketch/2878574) Procedural Construct by Kazoops <br>
+[https://openprocessing.org/sketch/1632092](https://openprocessing.org/sketch/1632092) Kandinsky's Circles  by Metamere <br>
+[https://openprocessing.org/sketch/2654309](https://openprocessing.org/sketch/2654309) v6 Puppet by Rajeev Raizada  <br>
+[https://openprocessing.org/sketch/2537651](https://openprocessing.org/sketch/2537651) FaceMesh test by Rajeev Raizada  <br>
+[https://openprocessing.org/sketch/2066195](https://openprocessing.org/sketch/2066195) MediaPipe-FaceMetrics-2025  <br>
+[https://openprocessing.org/sketch/2469730](https://openprocessing.org/sketch/2469730) Hand Tracking Mediapipe  <br>
+[https://openprocessing.org/sketch/2902965](https://openprocessing.org/sketch/2902965) mediaPipeMoshMirror  <br>
 
-Music Visualization
-[https://openprocessing.org/sketch/1587637](https://openprocessing.org/sketch/1587637)
-light dot jump jump
-[https://openprocessing.org/sketch/2926140](https://openprocessing.org/sketch/2926140)
-Eisenstein Music Visualizer
+Music Visualization <br>
+[https://openprocessing.org/sketch/1587637](https://openprocessing.org/sketch/1587637) <br>
+light dot jump jump <br>
+[https://openprocessing.org/sketch/2926140](https://openprocessing.org/sketch/2926140) <br>
+Eisenstein Music Visualizer <br>
+
 [https://openprocessing.org/sketch/2577921](https://openprocessing.org/sketch/2577921)
 
