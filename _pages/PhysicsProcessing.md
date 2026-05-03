@@ -147,7 +147,7 @@ The Nature of Code : Simulating Natural Systems with Processing(pdf) <br>
 [http://kowon.dongseo.ac.kr/~lbg/web_lecture/pbox2d/PBox2D.pptx](http://kowon.dongseo.ac.kr/~lbg/web_lecture/pbox2d/PBox2D.pptx) <br>
 
 [http://www.creativeapplications.net/processing/](http://www.creativeapplications.net/processing/)[kinect-physics-tutorial-for-processing/](kinect-physics-tutorial-for-processing/) <br>
-[https://www.youtube.com/watch?v=W8bukirivpU](https://www.youtube.com/watch?v=W8bukirivpU) <br>
+[https://www.youtube.com/watch?v=W8bukirivpU](https://www.youtube.com/watch?v=W8bukirivpU) CAN Kinect Physics Tutorial <br>
 [https://www.youtube.com/watch?v=OBERYT1qVv0](https://www.youtube.com/watch?v=OBERYT1qVv0) <br>
 
 ### LiquidFunProcessing
