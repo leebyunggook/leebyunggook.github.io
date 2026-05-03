@@ -25,9 +25,9 @@
 
 ### chap 8. Objects
 
-object-oriented programming (OOP) works in Processing
-[https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/)
-[https://processing.org/reference/class.html](https://processing.org/reference/class.html)
+object-oriented programming (OOP) works in Processing /
+[https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/) /
+[https://processing.org/reference/class.html](https://processing.org/reference/class.html) /
 
 MovingMark
 [https://openprocessing.org/sketch/877246](https://openprocessing.org/sketch/877246)
