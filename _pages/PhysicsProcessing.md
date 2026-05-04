@@ -23,7 +23,7 @@
 
 ### chap 8. Objects
 
-object-oriented programming (OOP) works in Processing <br>
+[object-oriented programming (OOP)](./OOP.pdf) [pptx]((./OOP.pptx) works in Processing <br>
 [https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/) <br>
 [https://processing.org/reference/class.html](https://processing.org/reference/class.html) <br>
 
@@ -66,7 +66,7 @@ for(int i=0; i&ltmks.length; i++) {
 
 ArrayList
 <pre><code>
-ArrayList &ltMovingMark&gt mks;
+ArrayList $\lt$ MovingMark $\gt$ mks;
 mks= new ArrayList &ltMovingMark&gt();
 mks.add(new MovingMark());
 for(i=0; i&ltmks.size(); i++) { 
