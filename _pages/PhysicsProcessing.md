@@ -56,20 +56,20 @@ mk2.draw();
 Array
 <pre><code>
 MovingMark[] mks = new MovingMark[20];
-for(int i=0; i&ltmks.length; i++) {
+for(int i=0; i &lt mks.length; i++) {
   mks[i] = new MovingMark();
 }
-for(int i=0; i&ltmks.length; i++) {
+for(int i=0; i &lt mks.length; i++) {
   mks[i].draw();
 }
 </code></pre>
 
 ArrayList
 <pre><code>
-ArrayList $\lt$ MovingMark $\gt$ mks;
-mks= new ArrayList &ltMovingMark&gt();
+ArrayList &\lt MovingMark &\gt mks;
+mks= new ArrayList &lt MovingMark &gt ();
 mks.add(new MovingMark());
-for(i=0; i&ltmks.size(); i++) { 
+for(i=0; i &lt mks.size(); i++) { 
   MovingMark mk = mks.get(i);
   mk.draw();
 }  
