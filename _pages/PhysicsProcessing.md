@@ -98,8 +98,16 @@ RainDrop Behavior <br>
 [transformation](./Transformation.pdf) [pptx](./Transformtion.pptx) <br>
 [https://processing.org/tutorials/p3d/](https://processing.org/tutorials/p3d/) 
 <pre><code>
-rotateX(tx);
-rotateY(ty);
+void setup() {
+  size(600, 600, P3D);
+}
+void draw() {
+  background(32);
+  translate(width/2, height/2);
+  rotateX(tx);
+  rotateY(ty);
+  box(100);
+}
 void mouseDragged() {
   tx += (pmouseY - mouseY)*0.01;  
   ty += (mouseX - pmouseX)*0.01;  
