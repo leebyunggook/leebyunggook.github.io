@@ -66,7 +66,7 @@ for(int i=0; i&ltmks.length; i++) {
 
 ArrayList
 <pre><code>
-ArrayList &\ltMovingMark&\gtmks;
+ArrayList &ltMovingMark&gtmks;
 mks= new ArrayList &ltMovingMark&gt();
 mks.add(new MovingMark());
 for(i=0; i &ltmks.size(); i++) { 
