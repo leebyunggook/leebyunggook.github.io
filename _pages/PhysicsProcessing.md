@@ -23,7 +23,7 @@
 
 ### chap 8. Objects
 
-[object-oriented programming (OOP)](./OOP.pdf) [pptx]((./OOP.pptx) works in Processing <br>
+[object-oriented programming (OOP)](./OOP.pdf) [pptx](./OOP.pptx) works in Processing <br>
 [https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/) <br>
 [https://processing.org/reference/class.html](https://processing.org/reference/class.html) <br>
 
