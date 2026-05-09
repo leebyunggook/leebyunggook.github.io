@@ -44,6 +44,7 @@ ellipse(x, y, radius, radius);
 arc(x, y, width, height, start, stop);
 map(value, start1, stop1, start2, stop2);	
 random(high);
+mouseX, mouseY, pmouseX, pmouseY
 for(i=0; i<n; i++)  
 </code></pre>
 
@@ -52,7 +53,12 @@ noise(x)
 function
 variable
 array
+key, keyCode, keyPressed 
+mouseButton, mousePressed, mouseMoved, mouseDragged, mouseReleased
 </code></pre>
+
+Simple Logo and Pattern
+
 
 ### chap 8. Objects
 
