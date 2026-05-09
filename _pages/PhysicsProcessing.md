@@ -21,6 +21,32 @@
 - [https://openprocessing.org/browse?q=game&time=anytime&type=tags&offset=0#](https://openprocessing.org/browse?q=game&time=anytime&type=tags&offset=0#) 
 - [Learning Processing](http://learningprocessing.com/), Daniel Shiffman. August 2008, Morgan Kaufmann.
 
+### Processing
+
+MovingMark <br>
+[https://openprocessing.org/sketch/877246](https://openprocessing.org/sketch/877246)
+
+<pre><code>
+fullScreen();
+size(width, height);  
+colorMode(RGB, 255, 255, 255);  
+[colorMode(HSB, 360, 100, 100)](https://processing.org/reference/colorMode_.html);
+rectMode(CENTER);
+noFill();
+strokeWeight(weight);
+stroke(hue, saturation, brightness);
+line(x1, y1, x2, y2);
+rect(x, y, width, height);
+ellipse(x, y, radius, radius);
+[arc(x, y, width, height, start, stop)](https://processing.org/reference/arc_.html);
+[random(t)](https://processing.org/reference/random_.html);
+</code></pre>
+
+<pre><code>
+
+</code></pre>
+
+
 ### chap 8. Objects
 
 [object-oriented programming (OOP)](./OOP.pdf) [pptx](./OOP.pptx) works in Processing <br>
@@ -29,18 +55,6 @@
 
 MovingMark <br>
 [https://openprocessing.org/sketch/877246](https://openprocessing.org/sketch/877246)
-<pre><code>
-fullScreen();
-colorMode(HSB, 360, 100, 100);
-rectMode(CENTER);
-noFill();
-strokeWeight(weight);
-stroke(hue, saturation, brightness);
-line(x1, y1, x2, y2);
-rect(x, y, width, height);
-ellipse(x, y, radius, radius);
-arc(x, y, width, height, start, stop);
-</code></pre>
 
 Variable
 <pre><code>
