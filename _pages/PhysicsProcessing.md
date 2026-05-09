@@ -25,12 +25,13 @@
 
 MovingMark <br>
 [https://openprocessing.org/sketch/877246](https://openprocessing.org/sketch/877246)
+[https://processing.org/reference/colorMode_.html](https://processing.org/reference/colorMode_.html)
 
 <pre><code>
 fullScreen();
 size(width, height);  
 colorMode(RGB, 255, 255, 255);  
-[colorMode(HSB, 360, 100, 100)](https://processing.org/reference/colorMode_.html);
+colorMode(HSB, 360, 100, 100)];
 rectMode(CENTER);
 noFill();
 strokeWeight(weight);
@@ -38,8 +39,8 @@ stroke(hue, saturation, brightness);
 line(x1, y1, x2, y2);
 rect(x, y, width, height);
 ellipse(x, y, radius, radius);
-[arc(x, y, width, height, start, stop)](https://processing.org/reference/arc_.html);
-[random(t)](https://processing.org/reference/random_.html);
+arc(x, y, width, height, start, stop);
+random(t);
 </code></pre>
 
 <pre><code>
