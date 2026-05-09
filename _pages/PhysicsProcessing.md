@@ -28,8 +28,10 @@ MovingMark <br>
 [https://processing.org/reference/colorMode_.html](https://processing.org/reference/colorMode_.html)
 
 <pre><code>
-fullScreen();
+void setup()
+void draw()
 size(width, height);  
+fullScreen();
 colorMode(RGB, 255, 255, 255);  
 colorMode(HSB, 360, 100, 100)];
 rectMode(CENTER);
@@ -40,13 +42,17 @@ line(x1, y1, x2, y2);
 rect(x, y, width, height);
 ellipse(x, y, radius, radius);
 arc(x, y, width, height, start, stop);
-random(t);
+map(value, start1, stop1, start2, stop2);	
+random(high);
+for(i=0; i<n; i++)  
 </code></pre>
 
 <pre><code>
-
+noise(x)
+function
+variable
+array
 </code></pre>
-
 
 ### chap 8. Objects
 
