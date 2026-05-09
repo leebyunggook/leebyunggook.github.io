@@ -28,14 +28,12 @@ MovingMark <br>
 [https://processing.org/reference/colorMode_.html](https://processing.org/reference/colorMode_.html)
 
 <pre><code>
-void setup()
-void draw()
-size(width, height);  
-fullScreen();
+void setup() void draw()
+size(width, height); fullScreen();
 colorMode(RGB, 255, 255, 255);  
 colorMode(HSB, 360, 100, 100)];
 rectMode(CENTER);
-noFill();
+noFill(); fill(); 
 strokeWeight(weight);
 stroke(hue, saturation, brightness);
 line(x1, y1, x2, y2);
@@ -46,13 +44,13 @@ map(value, start1, stop1, start2, stop2);
 </code></pre>
 
 <pre><code>
-random(high);
-noise(x)
+background(color); 
+random(high); noise(x)
+frameCount, frameRate
 key, keyCode, keyPressed 
 mouseX, mouseY, pmouseX, pmouseY
 mouseButton, mousePressed, mouseMoved, mouseDragged, mouseReleased
-variable
-function
+variable, function
 </code></pre>
 
 Simple Logo and Pattern
