@@ -58,7 +58,8 @@ mouseButton, mousePressed, mouseMoved, mouseDragged, mouseReleased
 </code></pre>
 
 Simple Logo and Pattern
-
+<img src="./Picture1.png" width="200" height="200">
+<img src="./Picture2.png" width="200" height="200">
 
 ### chap 8. Objects
 
