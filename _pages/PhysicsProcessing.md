@@ -43,18 +43,16 @@ rect(x, y, width, height);
 ellipse(x, y, radius, radius);
 arc(x, y, width, height, start, stop);
 map(value, start1, stop1, start2, stop2);	
-random(high);
-mouseX, mouseY, pmouseX, pmouseY
-for(i=0; i<n; i++)  
 </code></pre>
 
 <pre><code>
+random(high);
 noise(x)
-function
-variable
-array
 key, keyCode, keyPressed 
+mouseX, mouseY, pmouseX, pmouseY
 mouseButton, mousePressed, mouseMoved, mouseDragged, mouseReleased
+variable
+function
 </code></pre>
 
 Simple Logo and Pattern
