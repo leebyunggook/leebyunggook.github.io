@@ -73,6 +73,7 @@ Simple Logo and Pattern
 ### chap 8. Objects
 
 8. [Objects](http://learningprocessing.com/examples/chp08/example-08-01-singleobject) <br>
+
 [object-oriented programming (OOP)](./OOP.pdf) [pptx](./OOP.pptx) works in Processing <br>
 [https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/) <br>
 [https://processing.org/reference/class.html](https://processing.org/reference/class.html) <br>
