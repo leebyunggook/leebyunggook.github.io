@@ -23,10 +23,18 @@
 
 ### Processing
 
+2026.05.09
 MovingMark <br>
 [https://openprocessing.org/sketch/877246](https://openprocessing.org/sketch/877246)
 [https://processing.org/reference/colorMode_.html](https://processing.org/reference/colorMode_.html)
 
+1. [Pixels](http://learningprocessing.com/examples/chp01/example-01-01-stroke-fill) 
+2. [Processing](http://learningprocessing.com/examples/chp02/example-02-01-zoog) 
+3. [Interaction](http://learningprocessing.com/examples/chp03/example-03-01-setupdraw) 
+4. [Variable](http://learningprocessing.com/examples/chp04/example-04-01-declaringvars)
+5. [Conditions](http://learningprocessing.com/examples/chp05/example-05-01-conditionals-fadingcolors)
+6. [Loop](http://learningprocessing.com/examples/chp06/example-06-01-manylines)
+ 
 <pre><code>
 void setup() void draw()
 size(width, height); fullScreen();
@@ -42,6 +50,9 @@ ellipse(x, y, radius, radius);
 arc(x, y, width, height, start, stop);
 map(value, start1, stop1, start2, stop2);	
 </code></pre>
+
+2026.05.12
+7. [Functions](http://learningprocessing.com/examples/chp07/example-07-01-function-definition)
 
 <pre><code>
 background(color); 
