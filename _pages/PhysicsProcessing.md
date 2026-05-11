@@ -28,10 +28,10 @@ MovingMark <br>
 [https://openprocessing.org/sketch/877246](https://openprocessing.org/sketch/877246)
 [https://processing.org/reference/colorMode_.html](https://processing.org/reference/colorMode_.html)
 
-1. [Pixels](http://learningprocessing.com/examples/chp01/example-01-01-stroke-fill) 
-2. [Processing](http://learningprocessing.com/examples/chp02/example-02-01-zoog) 
-3. [Interaction](http://learningprocessing.com/examples/chp03/example-03-01-setupdraw) 
-4. [Variable](http://learningprocessing.com/examples/chp04/example-04-01-declaringvars)
+1 [Pixels](http://learningprocessing.com/examples/chp01/example-01-01-stroke-fill) 
+2 [Processing](http://learningprocessing.com/examples/chp02/example-02-01-zoog) 
+3 [Interaction](http://learningprocessing.com/examples/chp03/example-03-01-setupdraw) 
+4 [Variable](http://learningprocessing.com/examples/chp04/example-04-01-declaringvars)
  
 <pre><code>
 void setup() void draw()
@@ -51,9 +51,9 @@ map(value, start1, stop1, start2, stop2);
 
 2026.05.12 <br>
 
-5. [Conditions](http://learningprocessing.com/examples/chp05/example-05-01-conditionals-fadingcolors)
-6. [Loop](http://learningprocessing.com/examples/chp06/example-06-01-manylines)
-7. [Functions](http://learningprocessing.com/examples/chp07/example-07-01-function-definition)
+5 [Conditions](http://learningprocessing.com/examples/chp05/example-05-01-conditionals-fadingcolors)
+6 [Loop](http://learningprocessing.com/examples/chp06/example-06-01-manylines)
+7 [Functions](http://learningprocessing.com/examples/chp07/example-07-01-function-definition)
 
 <pre><code>
 background(color); 
@@ -73,7 +73,7 @@ Simple Logo and Pattern
 2026.05.19 <br>
 ### chap 8. Objects
 
-8. [Objects](http://learningprocessing.com/examples/chp08/example-08-01-singleobject) <br>
+8 [Objects](http://learningprocessing.com/examples/chp08/example-08-01-singleobject) <br>
 
 [object-oriented programming (OOP)](./OOP.pdf) [pptx](./OOP.pptx) works in Processing <br>
 [https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/) <br>
