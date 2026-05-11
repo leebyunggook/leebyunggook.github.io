@@ -32,8 +32,6 @@ MovingMark <br>
 2. [Processing](http://learningprocessing.com/examples/chp02/example-02-01-zoog) 
 3. [Interaction](http://learningprocessing.com/examples/chp03/example-03-01-setupdraw) 
 4. [Variable](http://learningprocessing.com/examples/chp04/example-04-01-declaringvars)
-5. [Conditions](http://learningprocessing.com/examples/chp05/example-05-01-conditionals-fadingcolors)
-6. [Loop](http://learningprocessing.com/examples/chp06/example-06-01-manylines)
  
 <pre><code>
 void setup() void draw()
@@ -52,6 +50,8 @@ map(value, start1, stop1, start2, stop2);
 </code></pre>
 
 2026.05.12 <br>
+5. [Conditions](http://learningprocessing.com/examples/chp05/example-05-01-conditionals-fadingcolors)
+6. [Loop](http://learningprocessing.com/examples/chp06/example-06-01-manylines)
 7. [Functions](http://learningprocessing.com/examples/chp07/example-07-01-function-definition)
 
 <pre><code>
@@ -71,6 +71,7 @@ Simple Logo and Pattern
 
 ### chap 8. Objects
 
+8. [Objects](http://learningprocessing.com/examples/chp08/example-08-01-singleobject)
 [object-oriented programming (OOP)](./OOP.pdf) [pptx](./OOP.pptx) works in Processing <br>
 [https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/) <br>
 [https://processing.org/reference/class.html](https://processing.org/reference/class.html) <br>
