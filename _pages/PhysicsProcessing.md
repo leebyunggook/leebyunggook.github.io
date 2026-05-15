@@ -76,6 +76,9 @@ Simple Logo and Pattern
 8 [Objects](http://learningprocessing.com/examples/chp08/example-08-01-singleobject) <br>
 MovingCar, RainDrop, MovingMark, ...
 
+RainDrop Behavior <br>
+[http://learningprocessing.com/examples/chp10/](http://learningprocessing.com/examples/chp10/) example-10-06-raindrop-behavior <br>
+
 [object-oriented programming (OOP)](./OOP.pdf) [pptx](./OOP.pptx) works in Processing <br>
 [https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/) <br>
 [https://processing.org/reference/class.html](https://processing.org/reference/class.html) <br>
@@ -131,9 +134,6 @@ flowers mountains faces tree <br>
 
 ParticleSystemSmoke <br>
 [https://processing.org/examples/smokeparticlesystem.html](https://processing.org/examples/smokeparticlesystem.html) <br>
-
-RainDrop Behavior <br>
-[http://learningprocessing.com/examples/chp10/](http://learningprocessing.com/examples/chp10/) example-10-06-raindrop-behavior <br>
 
 ### chap 14. Transformations and 3D 
 [transformation](./Transformation.pdf) [pptx](./Transformtion.pptx) <br>
