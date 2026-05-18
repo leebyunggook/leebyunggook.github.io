@@ -76,9 +76,7 @@ Simple Logo and Pattern
 8 [Objects](http://learningprocessing.com/examples/chp08/example-08-01-singleobject) <br>
 MovingCar, RainDrop, MovingMark, MovingBezier, MovingArc<br>
 FaceMeshMediaPipe Sound Analysis ...<br>
-
-RainDrop Behavior <br>
-[http://learningprocessing.com/examples/chp10/](http://learningprocessing.com/examples/chp10/) example-10-06-raindrop-behavior <br>
+[http://learningprocessing.com/exercises/chp08/exercise-08-05-gravity-ball](http://learningprocessing.com/exercises/chp08/exercise-08-05-gravity-ball)RainDrop Gravity Behavior<br>
 
 [object-oriented programming (OOP)](./OOP.pdf) [pptx](./OOP.pptx) works in Processing <br>
 [https://processing.org/tutorials/objects/](https://processing.org/tutorials/objects/) <br>
