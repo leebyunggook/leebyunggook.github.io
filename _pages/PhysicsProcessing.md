@@ -74,7 +74,8 @@ Simple Logo and Pattern
 ### chap 8. Objects
 
 8 [Objects](http://learningprocessing.com/examples/chp08/example-08-01-singleobject) <br>
-MovingCar, RainDrop, MovingMark, ...
+MovingCar, RainDrop, MovingMark, MovingBezier, MovingArc<br>
+FaceMeshMediaPipe Sound Analysis ...<br>
 
 RainDrop Behavior <br>
 [http://learningprocessing.com/examples/chp10/](http://learningprocessing.com/examples/chp10/) example-10-06-raindrop-behavior <br>
