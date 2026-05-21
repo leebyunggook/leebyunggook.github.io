@@ -74,8 +74,8 @@ Simple Logo and Pattern
 ### chap 8. Objects
 
 8 [Objects](http://learningprocessing.com/examples/chp08/example-08-01-singleobject) <br>
-MovingCar, RainDrop, MovingMark, MovingBezier, MovingArc<br>
-FaceMeshMediaPipe Sound Analysis ...<br>
+MovingCar, RainDrop, MovingMark, MovingBezier<br>
+FaceMeshMediaPipe ...<br>
 [RainDrop Gravity Behavior](http://learningprocessing.com/exercises/chp08/exercise-08-05-gravity-ball)<br>
 
 [object-oriented programming (OOP)](./OOP.pdf) [pptx](./OOP.pptx) works in Processing <br>
@@ -107,6 +107,10 @@ for(int i=0; i&ltmks.length; i++) {
 }
 </code></pre>
 
+2026.05.26 <br>
+Variable, Array, ArrayList<br>
+ConcentricSound Sound Analysis ...<br>
+
 ArrayList
 <pre><code>
 ArrayList &ltMovingMark&gtmks;
@@ -134,6 +138,8 @@ flowers mountains faces tree <br>
 ParticleSystemSmoke <br>
 [https://processing.org/examples/smokeparticlesystem.html](https://processing.org/examples/smokeparticlesystem.html) <br>
 
+2026.06.02 <br>
+
 ### chap 14. Transformations and 3D 
 [transformation](./Transformation.pdf) [pptx](./Transformtion.pptx) <br>
 [https://processing.org/tutorials/p3d/](https://processing.org/tutorials/p3d/) 
@@ -153,6 +159,18 @@ void mouseDragged() {
   ty += (mouseX - pmouseX)*0.01;  
 }
 </code></pre>
+
+2026.06.09 <br>
+
+### Box2D 
+[http://box2d.org/](http://box2d.org/) <br>
+[http://processingjs.org/](http://processingjs.org/) <br>
+[http://box2d-js.sourceforge.net/](http://box2d-js.sourceforge.net/) <br>
+[http://www.mrdoob.com/projects/chromeexperiments/google-gravity/](http://www.mrdoob.com/projects/chromeexperiments/google-gravity/) <br>
+[http://kowon.dongseo.ac.kr/~lbg/web_lecture/pbox2d/PBox2D.pptx](http://kowon.dongseo.ac.kr/~lbg/web_lecture/pbox2d/PBox2D.pptx) <br>
+
+[http://www.creativeapplications.net/processing/](http://www.creativeapplications.net/processing/)[kinect-physics-tutorial-for-processing/](kinect-physics-tutorial-for-processing/) <br>
+[https://www.youtube.com/watch?v=W8bukirivpU](https://www.youtube.com/watch?v=W8bukirivpU) CAN Kinect Physics Tutorial <br>
 
 The Nature of Code : Simulating Natural Systems with Processing(pdf) <br>
 [https://github.com/shiffman/Box2D-for-Processing](https://github.com/shiffman/Box2D-for-Processing) 
@@ -186,16 +204,6 @@ The Nature of Code : Simulating Natural Systems with Processing(pdf) <br>
 
 ### chap 10. Neural Networks
 [https://natureofcode.com/neural-networks/](https://natureofcode.com/neural-networks/) 
-
-### Box2D 
-[http://box2d.org/](http://box2d.org/) <br>
-[http://processingjs.org/](http://processingjs.org/) <br>
-[http://box2d-js.sourceforge.net/](http://box2d-js.sourceforge.net/) <br>
-[http://www.mrdoob.com/projects/chromeexperiments/google-gravity/](http://www.mrdoob.com/projects/chromeexperiments/google-gravity/) <br>
-[http://kowon.dongseo.ac.kr/~lbg/web_lecture/pbox2d/PBox2D.pptx](http://kowon.dongseo.ac.kr/~lbg/web_lecture/pbox2d/PBox2D.pptx) <br>
-
-[http://www.creativeapplications.net/processing/](http://www.creativeapplications.net/processing/)[kinect-physics-tutorial-for-processing/](kinect-physics-tutorial-for-processing/) <br>
-[https://www.youtube.com/watch?v=W8bukirivpU](https://www.youtube.com/watch?v=W8bukirivpU) CAN Kinect Physics Tutorial <br>
 
 ### LiquidFunProcessing
 LiquidFun is based on Erin Catto's Box2D library, which provides 2D, rigid-body simulation in games. LiquidFun extends Box2D to provide particle physics and fluid dynamics. <br>
