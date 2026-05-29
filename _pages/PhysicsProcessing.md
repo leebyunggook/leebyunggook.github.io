@@ -135,10 +135,10 @@ flowers mountains faces tree <br>
 [https://www.renderforest.com/music-visualizer.html](https://www.renderforest.com/music-visualizer.html) <br>
 [http://www.rayban.vision/#projects/beat-detection](http://www.rayban.vision/#projects/beat-detection) <br>
 
+2026.06.02 <br>
+
 ParticleSystemSmoke <br>
 [https://processing.org/examples/smokeparticlesystem.html](https://processing.org/examples/smokeparticlesystem.html) <br>
-
-2026.06.02 <br>
 
 ### chap 14. Transformations and 3D 
 [transformation](./Transformation.pdf) [pptx](./Transformtion.pptx) <br>
@@ -171,6 +171,8 @@ void mouseDragged() {
 
 [http://www.creativeapplications.net/processing/](http://www.creativeapplications.net/processing/)[kinect-physics-tutorial-for-processing/](kinect-physics-tutorial-for-processing/) <br>
 [https://www.youtube.com/watch?v=W8bukirivpU](https://www.youtube.com/watch?v=W8bukirivpU) CAN Kinect Physics Tutorial <br>
+
+2026.06.16 <br>
 
 The Nature of Code : Simulating Natural Systems with Processing(pdf) <br>
 [https://github.com/shiffman/Box2D-for-Processing](https://github.com/shiffman/Box2D-for-Processing) 
