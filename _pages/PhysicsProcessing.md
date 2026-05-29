@@ -138,6 +138,7 @@ flowers mountains faces tree <br>
 2026.06.02 <br>
 
 ParticleSystemSmoke <br>
+[https://processing.org/examples/simpleparticlesystem.html](https://processing.org/examples/simpleparticlesystem.html) <br>
 [https://processing.org/examples/smokeparticlesystem.html](https://processing.org/examples/smokeparticlesystem.html) <br>
 
 ### chap 14. Transformations and 3D 
