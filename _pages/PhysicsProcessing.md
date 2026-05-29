@@ -140,6 +140,8 @@ flowers mountains faces tree <br>
 ParticleSystemSmoke <br>
 [https://processing.org/examples/simpleparticlesystem.html](https://processing.org/examples/simpleparticlesystem.html) <br>
 [https://processing.org/examples/smokeparticlesystem.html](https://processing.org/examples/smokeparticlesystem.html) <br>
+FireWorks System <br>
+[https://openprocessing.org/@u521134/2645785](https://openprocessing.org/@u521134/2645785) <br>
 
 ### chap 14. Transformations and 3D 
 [transformation](./Transformation.pdf) [pptx](./Transformtion.pptx) <br>
