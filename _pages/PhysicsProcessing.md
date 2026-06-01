@@ -67,7 +67,7 @@ variable, function
 
 Simple Logo and Pattern
 <p float="left">
-<img src="./Picture1.png" width="300" height="300"> <img src="./Picture2.png" width="300" height="300">
+<img src="./../images/Picture1.png" width="300" height="300"> <img src="./../images/Picture2.png" width="300" height="300">
 </p>
 
 2026.05.19 <br>
