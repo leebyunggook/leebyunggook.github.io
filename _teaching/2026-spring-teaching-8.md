@@ -10,7 +10,7 @@ location: "Shanghai, China"
 
 생성형 AI를 활용하여 5가지 이상의 AIGC 콘텐츠 제작 
 
-1~3명 팀 구성 [Team Registration](https://leebyunggook.github.io/), Wechat group 구성
+1~3명 팀 구성 [Team Registration](https://leebyunggook.github.io/), WeChat group 구성
 
 * 2026.06.22 Mon 09:55~ [Lecture Notes](https://leebyunggook.github.io/)
 * 2026.07.06 Mon 09:55~ Middle Presentation - Online
