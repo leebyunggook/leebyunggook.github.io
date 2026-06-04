@@ -1,0 +1,14 @@
+<img width="82" height="28" alt="image" src="https://github.com/user-attachments/assets/fe86dddf-9d77-4011-9b7a-31dffab48789" />---
+title: "文化与创意专题实习(中韩合作)"
+collection: teaching
+type: "undergraduate 1st year"
+permalink: /teaching/2026-spring-teaching-8
+venue: "International Institute of Creative Design(IICD), SUES, 2026"
+date: 2026-06-05
+location: "Shanghai, China"
+---
+
+생성형 AI를 활용하여 5가지 이상의 AIGC 콘텐츠 제작 
+* 2026.06.22 Mon 09:55~ [Lecture Notes](https://leebyunggook.github.io/)
+* 2026.07.06 Mon 09:55~ Middle Presentation - Online
+* 2026.07.13 Mon 09:55~ Final Presentation - Online
