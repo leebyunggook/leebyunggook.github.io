@@ -1,4 +1,4 @@
-<img width="82" height="28" alt="image" src="https://github.com/user-attachments/assets/fe86dddf-9d77-4011-9b7a-31dffab48789" />---
+---
 title: "文化与创意专题实习(中韩合作)"
 collection: teaching
 type: "undergraduate 1st year"
