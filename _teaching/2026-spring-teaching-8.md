@@ -8,7 +8,8 @@ date: 2026-06-05
 location: "Shanghai, China"
 ---
 
-생성형 AI를 활용하여 5가지 이상의 AIGC 콘텐츠 제작 
+생성형 AI를 활용하여 5가지 이상의 AIGC 콘텐츠 제작하여 
+AI 툴들과 콘텐츠 제작과정을 발표자료를 만들어 제출하고 소개해주세요 
 
 1~3명 팀 구성 [Team Registration](https://leebyunggook.github.io/), WeChat group 구성
 
