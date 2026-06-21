@@ -9,7 +9,9 @@ location: "Shanghai, China"
 ---
 
 3D Printer *, Slip Casting *, Blender, Generative AI, MCP  
-1인 Project, 주제와 키워드 등록 [Title Registration](https://f.kdocs.cn/g/tPz0zkac/), WeChat group 구성  
+1인 Project의 주제와 키워드 등록 Registering the topic and keywords for the one-person project :
+[Title Registration](https://f.kdocs.cn/g/tPz0zkac/)   
 ex) 3D Printer 기술동향과 응용, (3D Printer를 이용한) Slip Casting 방법과 작품 동향  
-* 2026.06.25 Thursday 09:55~ [Lecture Notes](https://leebyunggook.github.io/)
+3D Printer Technology Trends and Applications, Slip Casting Methods (Using 3D Printers) and Artwork Trends  
+* 2026.06.25 Thursday 09:55~ Lecture
 * 2026.07.02 Thursday 09:55~ PPT Presentation [PPT Registration](https://f.kdocs.cn/g/VOoFe4bH/)
