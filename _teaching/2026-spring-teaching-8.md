@@ -12,7 +12,7 @@ location: "Shanghai, China"
 AI 툴들과 콘텐츠 제작과정을 발표자료를 만들어 제출하고 소개해주세요. 1~3명 팀 구성 
 Please create at least five pieces of AIGC content using Generative AI, 
 prepare and submit a presentation introducing the AI ​​tools and content creation process.  
-Form a team of 1–3 people : [Team Registration](https://f.kdocs.cn/g/Ie1D8lFn/)  
+Form a team of 1–3 students : [Team Registration](https://f.kdocs.cn/g/Ie1D8lFn/)  
 * 2026.06.22 Monday #913 09:55~ [Lecture Notes](https://leebyunggook.github.io/)
 * 2026.07.07 Tuesday 09:55~ Middle Presentation - Online [PPT Registration](https://f.kdocs.cn/g/SieAWpVF/)
 * 2026.07.16 Thursday 09:55~ Final Presentation - Online [PPT Registration](https://f.kdocs.cn/g/SieAWpVF/)
