@@ -54,7 +54,6 @@ Lectures :
 ======
 [알고리즘(Algorithm)](https://docs.google.com/document/d/13fpImo7G8Ow9hWluNNdDQLCn1pw4Vp3NXWk3s5wyl_M/edit?usp=sharing){:target="_blank"}, 
 [웹프로그래밍(Web Programming)](https://docs.google.com/document/d/1DIelqz13KJvWNonWlFONPavD1nXrXkX4ZjFuor0YFng/edit?usp=sharing){:target="_blank"},  
-
 [객체지향프로그램(OOP-Java)](https://drive.google.com/open?id=1Axmj5sCgHwMKalN_4J5sSMNLaU7z30y2y-uXn6oQTjQ){:target="_blank"}, 
 [컴퓨터그래픽스(Computer Graphics: ](https://docs.google.com/document/d/1ws8QLYgxB4Nj_ZnCiqlYsXvPhpzePRtTjaeDrQ2nny8/edit?usp=sharing){:target="_blank"},  
 [영상처리(Image Processing)](https://docs.google.com/document/d/1qaZOJ7kA3RFyG-RrI-mh_Tin70rH1cbTu96OaHQRvhA/edit?usp=sharing){:target="_blank"}, 
@@ -65,7 +64,7 @@ Lectures :
 [머신러닝(ML)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing){:target="_blank"},  
 [Computer Graphics(MS)](https://drive.google.com/open?id=1P5sw_GTeO1074b7VugKLQXGy23JcZ8JiLATaScqNBQE){:target="_blank"}, 
 [Digital Image Processing(MS)](https://docs.google.com/document/d/13uzd5_6CkAahbVXql1GqS1SA3M4ySScNe9Uf3EDgMkk/edit?usp=sharing){:target="_blank"}, 
-[Computer Vision(MS)](https://drive.google.com/open?id=1sB1zkrUjNu39_mJV-ewqLZBx7sBneBe96yJoPJS1l6Q){:target="_blank"}, 
+[Computer Vision(MS)](https://drive.google.com/open?id=1sB1zkrUjNu39_mJV-ewqLZBx7sBneBe96yJoPJS1l6Q){:target="_blank"},  
 [Statistical Learning(MS)](https://docs.google.com/document/d/1-Mk8ICZ-cTzDBHtl2xLuo3tRAFYpiFSyscE4lYNY0f8/edit?usp=sharing){:target="_blank"}, 
 [Natural Language Programming(MS)](https://docs.google.com/document/d/1v-VuDiE1_xePzTqUUiEVHEiV_AgnpWlQcBTYa6g9GsY/edit?usp=sharing){:target="_blank"},  
 [PhysicsProcessing(SUES 2026)](./PhysicsProcessing.md){:target="_blank"}, 
