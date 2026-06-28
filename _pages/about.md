@@ -70,9 +70,8 @@ Lectures :
 [Computer Graphics(MS)](https://drive.google.com/open?id=1P5sw_GTeO1074b7VugKLQXGy23JcZ8JiLATaScqNBQE){:target="_blank"}, 
 [Digital Image Processing(MS)](https://docs.google.com/document/d/13uzd5_6CkAahbVXql1GqS1SA3M4ySScNe9Uf3EDgMkk/edit?usp=sharing){:target="_blank"}, 
 
-[Computer Vision(MS)](https://drive.google.com/open?id=1sB1zkrUjNu39_mJV-ewqLZBx7sBneBe96yJoPJS1l6Q){:target="_blank"},  
-[Statistical Learning(MS)](https://docs.google.com/document/d/1-Mk8ICZ-cTzDBHtl2xLuo3tRAFYpiFSyscE4lYNY0f8/edit?usp=sharing){:target="_blank"},  
-
+[Computer Vision(MS)](https://drive.google.com/open?id=1sB1zkrUjNu39_mJV-ewqLZBx7sBneBe96yJoPJS1l6Q){:target="_blank"}, 
+[Statistical Learning(MS)](https://docs.google.com/document/d/1-Mk8ICZ-cTzDBHtl2xLuo3tRAFYpiFSyscE4lYNY0f8/edit?usp=sharing){:target="_blank"}, 
 [Natural Language Programming(MS)](https://docs.google.com/document/d/1v-VuDiE1_xePzTqUUiEVHEiV_AgnpWlQcBTYa6g9GsY/edit?usp=sharing){:target="_blank"},  
 
 [PhysicsProcessing(SUES 2026)](./PhysicsProcessing.md){:target="_blank"}, 
