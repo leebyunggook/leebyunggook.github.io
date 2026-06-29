@@ -70,7 +70,7 @@ Lectures :
 [PhysicsProcessing(SUES 2026)](./PhysicsProcessing.md){:target="_blank"}, 
 [Processing(SUES 2025)](https://sg.docworkspace.com/d/cIHSvpJlBpLiVxgY?from=dch){:target="_blank"}, 
 [Create Design(SUES 2025)](https://sg.docworkspace.com/d/cICevpJlBwsfIxwY?from=dch){:target="_blank"},   
-[OpenGL)](https://drive.google.com/open?id=1DLk2NBAaagQAE4vHliOkZiYeshp8E5P7i_t6xEXPv-s){:target="_blank"}, 
+[Computer Graphics(OpenGL)](https://drive.google.com/open?id=1DLk2NBAaagQAE4vHliOkZiYeshp8E5P7i_t6xEXPv-s){:target="_blank"}, 
 [Capstone Design](https://docs.google.com/document/d/1bYFbSYBAbrmrxhRcjVT4JlOUHjFBMOo-tWRMg0uZvP4/edit?usp=sharing){:target="_blank"}, 
 [more...](http://kowon.dongseo.ac.kr/~lbg/lectures.html){:target="_blank"}   
 
