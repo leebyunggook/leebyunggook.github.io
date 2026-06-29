@@ -59,7 +59,7 @@ Lectures :
 [Python Programming](https://docs.google.com/document/d/1Ypk-sW-FxhVGDGTpUhpIVr9bKn-Xrf2d6DIp7hI-pFA/edit?usp=sharing){:target="_blank"}, 
 [영상처리(Image Processing)](https://docs.google.com/document/d/1qaZOJ7kA3RFyG-RrI-mh_Tin70rH1cbTu96OaHQRvhA/edit?usp=sharing){:target="_blank"}, 
 [컴퓨터비전(Computer Vision)](https://docs.google.com/document/d/1FOq46pI83v6SXnVbWeJ7ZwvonHu1nv9lFj9-CdYs6_o/edit?usp=sharing){:target="_blank"},   
-[고급인공지능(AdvAI)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing){:target="_blank"}, 
+[인공지능이해(understanding AI)](https://docs.google.com/document/d/1SL74BrWt93NaLyO5SC9qXyNosY9ohK9fB3InCjHXO3Y/edit?usp=sharing){:target="_blank"}, 
 [인공지능(AI)](https://docs.google.com/document/d/1TeraGVJsosbCGBQHF0ycYztmkgwYOQfC5Q-BPJ_KRUg/edit?usp=sharing){:target="_blank"}, 
 [머신러닝(ML)](https://docs.google.com/document/d/1avXdB1RnFkyxDWkyS-rEBFy9WNB8TsYxyhsckHPJR1c/edit?usp=sharing){:target="_blank"}, 
 [선박주변상황인지센서기술](https://docs.google.com/document/d/1EcJBqEqrzfczhF4yVvPmwjIGctZFDCpcp3a2fqJnDG4/edit?usp=sharing){:target="_blank"},  
